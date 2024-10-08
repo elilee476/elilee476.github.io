@@ -47,6 +47,6 @@ There are of course many reasons to support aid to Ukraine—perhaps some would 
 
 [^2]: Or in the case of a state growing its military—these observations only tell us the speed that a state has decided to execute such growth, and not its maximum potential to produce materiel and recruit new soldiers.
 
-[^3] I compiled this chart from Russian MO published numbers for recruiting and publicly-leaked Western intelligence estimates of Russian casualties near the end of the year ([2022](https://www.nytimes.com/2023/04/13/world/europe/russia-intelligence-leaks.html?partner=slack&smid=sl-share), [2023](https://www.reuters.com/world/us-intelligence-assesses-ukraine-war-has-cost-russia-315000-casualties-source-2023-12-12/), [2024](https://www.wsj.com/world/one-million-are-now-dead-or-injured-in-the-russia-ukraine-war-b09d04e5)). 
+[^3]: I compiled this chart from Russian MO published numbers for recruiting and publicly-leaked Western intelligence estimates of Russian casualties near the end of the year ([2022](https://www.nytimes.com/2023/04/13/world/europe/russia-intelligence-leaks.html?partner=slack&smid=sl-share), [2023](https://www.reuters.com/world/us-intelligence-assesses-ukraine-war-has-cost-russia-315000-casualties-source-2023-12-12/), [2024](https://www.wsj.com/world/one-million-are-now-dead-or-injured-in-the-russia-ukraine-war-b09d04e5)). 
 
 
