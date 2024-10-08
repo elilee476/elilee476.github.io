@@ -22,7 +22,8 @@ So far, I’ve discussed stocks vs flows as heuristics for military power entire
 
 A simple chart tells the same story:
 
-![](/Picture1.png) [^3]
+![](/Picture1.png) 
+[^3]
 
 Here we have unequivocal evidence—interpreted by one of the best-informed officials in the U.S. government—that supplying Ukraine in the war has not only failed to weaken Russia but actually produced the opposite outcome. Understanding military power as a flow, as the general alludes to in his remarks when he invokes Russia’s “defense industrial complex, tells us why this happened. Although American and Western aid may have helped inflict casualties on the Russian military, Russia has been able to replace their casualties and destroyed systems by recruiting new troops and building new systems. And not only have they done so at a sufficient rate to replace the casualties caused by Western aid, but they have even managed to expand their military and make it more lethal *while fighting the war*. Even though Western military aid has decreased Russia’s 2022 stocks of military power, it has increased their analogous flows, rendering the Russian military more powerful in the long run.
 
