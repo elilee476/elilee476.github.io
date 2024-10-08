@@ -19,7 +19,6 @@ Once we see how much the flow of militarily relevant quantities of troops and ma
 So far, I’ve discussed stocks vs flows as heuristics for military power entirely in the abstract, but my ultimate intention is to apply the distinction to explain why it’s mistaken to think that supplying military aid to Ukraine will make Russia’s military weaker. One reason we can be confident that this view is mistaken is simply that it has already been empirically refuted. Supreme Allied Commander Europe General Christopher G. Cavoli [testified] (https://www.armed-services.senate.gov/imo/media/doc/cavoli_statement.pdf) to Congress in April that Russia’s military is more powerful today than when the war began. General Cavoli’s words are worth quoting in full:
 
 > Russia is on track to command the largest military on the continent and a defense industrial complex capable of generating substantial amounts of ammunition and 93 materiel in support of large-scale combat operations. Regardless of the outcome of the war in Ukraine, Russia will be larger, more lethal, and angrier with the West than when it invaded.
->
-> A simple chart tells the same story:
->
-> 
+
+A simple chart tells the same story:
+
