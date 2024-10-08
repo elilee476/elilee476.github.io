@@ -22,6 +22,10 @@ So far, I’ve discussed stocks vs flows as heuristics for military power entire
 
 A simple chart tells the same story:
 
+Picture1.png
+
+
+
 [^1]: A prominent counterexample to this is the CIA World Factbook listing for each state the number of male citizens who turn 18 each year. Although this is impressive and smart, I would argue that such information typically does not make it into policy discourse evaluating the military power of states.
 
 [^2]: Or in the case of a state growing its military—these observations only tell us the speed that a state has decided to execute such growth, and not its maximum potential to produce materiel and recruit new soldiers.
