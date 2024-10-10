@@ -23,8 +23,8 @@ Some analytic philosophers have pursued another route: while they take seriously
 The use of hypothetical situations--"hypos"--as a pedagogical method may remind those who have dealt with the legal academy of their own experiences. I'd like to describe a common way that hypos are used in the law school classroom, particularly in con law classes, and then pursue the thought that using hypos this way is vulnerable to a similar kind of objection as the one made above to conceptual analysis. My hypothetical dialogue, my *hypo*, will be devoid of all content and describe only the abstract intellectual moves that its participants make: 
 
 1. Professor asks student to interpret a legal rule
-2. Student proposes an interpretation of a legal rule
-3. Professor creates a hypo in which the result of that interpretation is an outcome at odds with the moral or political preferences of the classroom
+2. Student proposes an interpretation of the rule
+3. Professor creates a hypo in which the application of that interpretation is an outcome at odds with the moral or political preferences of the classroom
 4. Student shamefully withdraws their interpretation of the legal rule
 5. Professor proposes a refined interpretation of the rule in which the undesirable result is avoided
 6. Classroom is shocked at professor's genuis, applauds
