@@ -42,4 +42,4 @@ I hope the reader can already see that as in the case of conceptual analysis, we
 
 [^2]: This is Robert Nozick's utility monster, which is discussed in his famous book Anarchy, State, and Utopia. One of the joys of writing a blog is that I don't have to write formal citations ;)
   
-[^3]: Jonathan Mitchell's article [Textualism and the 14th Amendment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972974) is an excellent example of the kind of casuistic and ornate theory which I am imagining.
+[^3]: Jonathan Mitchell's article [Textualism and the 14th Amendment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2972974) is an excellent example of the kind of casuistic and ornate theory that I am imagining.
