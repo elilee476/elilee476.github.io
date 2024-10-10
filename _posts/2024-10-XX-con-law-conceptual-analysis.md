@@ -33,7 +33,7 @@ A specific instantiation of this skit often plays out between originalists and t
 
 I hope the reader can already see that as in the case of conceptual analysis, we are dealing here with the same play of:
 1. Empirical facts about current uses of something (a legal rule rather than a concept)
-2. Intutions in a classroom
+2. Intuitions in a classroom generally composed of a niche sociological caste
 3. These use of those intuitions to search for a kind of higher normative authority that can stand above and guide real-world empirical behavior (in this case: intepretations of legal rules by courts). 
 
 
