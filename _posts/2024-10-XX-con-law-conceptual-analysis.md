@@ -38,7 +38,7 @@ I hope the reader can already see that as in the case of conceptual analysis, we
 
 
 
-[^1]: A collection of papers which contribute ideas behind the argument I offer in the paragraph below: 
+[^1]: A collection of papers which contribute ideas behind the argument I offer in the section below: 
 
 [^2]: This is Robert Nozick's utility monster, which is discussed in his famous book Anarchy, State, and Utopia. One of the joys of writing a blog is that I don't have to write formal citations ;)
   
