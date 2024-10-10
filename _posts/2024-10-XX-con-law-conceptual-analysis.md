@@ -1,4 +1,4 @@
-# Law School Con Law Classrooms and Conceptual Analysis: Brothers from Another Mother
+# Con Law Classrooms and Conceptual Analysis: Brothers from Another Mother
 
 ## What is Conceptual Analysis?
 
