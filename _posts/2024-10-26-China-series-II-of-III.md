@@ -1,5 +1,6 @@
 # China Series II of III: Stock Market vs. Real Estate Bubbles
 
+
 “He that is without sin among you, let him cast a first stone at her.” *John 8:7*
 
 American economists and financial analysts have expressed a great deal of concern at the presence of a bubble waiting to collapse in China’s real estate market.  Many Americans first became aware of this issue when the large developer Evergrande [defaulted](https://www.reuters.com/world/china/inside-downfall-embattled-property-developer-china-evergrande-2023-08-31/) on its debt.  This default was followed a large number of defaults and bankruptcies by other developers—then the announcement and partial withdrawal of a [“three red lines” policy](https://www.bloomberg.com/news/articles/2023-01-06/china-may-ease-three-red-lines-property-rules-in-drastic-shift) to control the proliferation of leverage in the property sector.  While President Xi has attempted to persuade the Chinese middle class that “housing is for living in, not for speculation,” many American commentators still believe that the Chinese property sector is ridden with ghost towns and bad debt. 
