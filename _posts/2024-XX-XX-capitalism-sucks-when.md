@@ -1,4 +1,4 @@
-# Capitalism sucks when you haven't just blown up the world's entire capital stock
+# Capitalism sucks when you haven't just blown up the entire world's capital stock
 
 All I want to do in this post is present the reader with some charts that demonstrate the absurd magnitude of America's commanding lead in industrial production after WWII. The reason I think it is important to understand these facts is that many people look at this time as an example of a desirable settlement between capital and labor in which both groups comfortably enjoyed an expanding pie rather than squabbling about how to slice it up.  
 
