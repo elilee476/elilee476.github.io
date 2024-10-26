@@ -25,7 +25,7 @@ What does this have to do with the fed put and the allegation that the United St
 I’d now like to contrast *American Affairs’* stylized portrait of the United States’ public equity bubble with my own stylized portrait of China’s real estate bubble. What are the economic effects of an irrationally high level of investment in property? A list might include:
 1. diverting potentially productive investment into a sector which won’t produce positive returns (bad)
 2. suppressing consumption by incenting the middle class to spend on real estate investment instead of consumer goods (bad)
-3. (3) increasing demand for construction inputs (good).
+3. increasing demand for construction inputs (good).
 
 (1) strikes me as not that concerning because China already has an enormous savings rate and a concomitantly high investment rate. There is no shortage of capital to fund potentially productive investment projects. (2) is more of a problem but could potentially be offset to some degree by the positive demand effects of (3). Again, all of this is extremely speculative, and real economic scholarship would be required to actually determine if those effects exist and how they interact.  My purpose is not to substitute for that scholarship, but rather to lower the temperature of American panic about China’s real estate bubble by suggesting that it could potentially be a better area of the economy in which to have a bubble than a stock market bubble. And if one buys my earlier argument that it is an inevitable for a large middle-class economy to tolerate an asset bubble at least somewhere, then the relevant question is in which area of the economy is it least harmful to have one; not how to get rid of any inefficient asset bubbles completely. 
 
