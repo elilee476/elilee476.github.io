@@ -1,3 +1,8 @@
+---
+tags: ["China Series"]
+---
+
+
 # China Series I of III: Taiwan in Revlon Mode 
 
 This is the first in a series of posts inspired by my time travelling in China in Spring 2024.
