@@ -1,3 +1,10 @@
+---
+
+tags: ["China Series"]
+
+---
+
+
 # China Series II of III: Stock Market vs. Real Estate Bubbles
 
 
