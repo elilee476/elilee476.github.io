@@ -11,13 +11,17 @@ Depending on which of these explanations one believes in, and they are by no mea
 
 I think the idea that any or all of these prescriptions can bring back the attractive elements of the midcentury American economy look less compelling when we understand how much of it was based on monopoly rents.
 
-Consider both industrial and GDP shares by country *before* WWII:
+Consider GDP shares by country after WWII:
 
-And after:
+![chat copy](https://github.com/user-attachments/assets/15b0b36f-53a9-400b-9cb2-5d6643754c4d)
 
-Let's also look at the before and after stories for capital investment:
+Let's also look at capital per worker levels:
+
+
 
 Once the worst-affected countries in WWII recovered their prewar levels of capital investment, they began to cut into American industrial market share:
+
+
 
 The intuitive story for this would be as follows. Take Japan as an example. Japan's capital stock gets destroyed in the fighting of WWII. After that happens, they have no choice but to import industrial products from the United States. But once they recover enough to start rebuilding capital equipment, they start to compete with us in industries like autos and consumer electronics, cutting into our market share and eliminating monopoly rents which were previously shared between American labor and capital.
 
