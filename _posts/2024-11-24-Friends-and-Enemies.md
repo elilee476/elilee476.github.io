@@ -9,7 +9,7 @@ In my experience, if you ask these international young professionals why they vi
 - A majority of Americans have four or fewer lifetime sexual partners.
 - Should one or more of the characters' romantic entanglements prove lasting, it would be very unlikely for those characters to be able to purchase a home and support a family using the incomes provided by their creative and interesting careers. The total fertility rate in Washington, DC was 1.24 in 2022.
 - In most of the four core urban areas I mentioned earlier, the murder rate exceeds that of countries like Yemen and Zimbabwe. Using Washington as an example again, the city has a murder rate equal to that of Haiti.
-- In a city like New York, the annual ammount spent on sheltering migrants exceeds that of the sanitation budget by a factor of three.
+- In a city like New York, the annual ammount spent on sheltering migrants exceeds the sanitation budget by a factor of three.
 
 In the spirit of avoiding biased misinformation, I think it could be helpful for streaming services to require foreign viewers to expose themselves to these facts during or after watching *Friends*. But since statistics like the ones I've cited above can be dull and forgettable for audiences seeking entertainment, I propose that Hollywood create another TV show called *Enemies* to be viewed alongside *Friends*. *Enemies* could assist foreign viewers in forming a balanced understanding of the United States by portraying the less savory features of American life that entertainment products like *Friends* sometimes leave out. 
 
