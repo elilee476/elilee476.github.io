@@ -15,6 +15,7 @@ In the spirit of avoiding biased misinformation, I think it could be helpful for
 
 My hope would be that the experience of viewing *Enemies* would inspire citizens of the imperial periphery to be more open to political reform movements in the imperial core. I fear that after watching a show like *Friends*, citizens of the periphery might not be fully equipped to understand these movements and the forces that give rise to them.  
 
+But the people I would really like to address with this post are those who make the following argument: because citizens of the periphery hold positive attitudes towards the United States and often want to move here, we can infer that our social arrangements are good. I believe this argument needs to confront the challenge that the positive attitudes it takes as a premise are induced by slanted portrayals of American life in media like *Friends*. 
 
 
 [^1]: In using the term "international", I really do mean international. If one uses the term in the way that the American media often uses it: to summarize the views prevailing in Canada, Western Europe, and Scandinavia (roughly the core of the NATO alliance), then my sociological description does not really work. 
