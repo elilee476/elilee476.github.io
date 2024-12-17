@@ -6,7 +6,7 @@ One of the best words that gets thrown around a lot at Yale Law School is "epiph
 
 All jokes aside, the question of whether, to what degree, and how legal doctrine is epiphenomenal is actually quite fundamental and interesting. If legal decisionmaking is driven by forces other than the nature of doctrine, it would be quite important for a practicing lawyer to have an understanding of these forces.
 
-I want to offer a brief contribution to this discussion by looking at how markets reacted (or didn't react ) to what many legal scholars regard as a major change in administrative law doctrine. What's interesting is that scholars on *both* sides of the debate--both liberal defenders and conservative critics of the admin state--agreed that the Supreme Court's (the EXTREME Court's) decision in *Loper Bright* worked a major change in the balance of power between the administrative state and judiciary. 
+I want to offer a brief contribution to this discussion by looking at how markets reacted (or didn't react ) to what many legal scholars regard as a major change in administrative law doctrine. What's interesting is that scholars on *both* sides of the debate--both liberal defenders and conservative critics of the admin state--agreed that the Supreme (EXTREME) Court's decision in *Loper Bright* worked a major change in the balance of power between the administrative state and judiciary. 
 
 *Examples*
 
