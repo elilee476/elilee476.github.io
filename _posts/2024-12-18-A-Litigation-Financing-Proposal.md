@@ -59,7 +59,7 @@ There is a big problem someone could have with the story I've just told: the adv
 
 The response to this is that it's absolutely right that lawyers need only care about the interests of their clients. **But the problem with contigency is that conflates the role of lawyer and investor.** The fundamental justification for employing profit-seeking investment is that it is an efficient way of allocating resources. But for this to be true requires that investors are motivated to puruse value-creative activities because they share in the upsides and downsides of the investment. 
 
-If a lawyer wants to merely represent clients, then they need not incur any duties other than professional ethics to care about whether their representation creates or substracts value from society. But if a lawyer wants to *also* be an investor, then that role only makes sense if their incentives are properly aligned with value creation. That means it becomes a problem if they are not properly incentivized to create economic value. The rewards of investorship only make sense if those incentives are in place.
+If a lawyer wants to merely represent clients, then they need not incur any duty (beyond professional ethics) to care about whether their representation creates or substracts value from society. But if a lawyer wants to *also* be an investor, then that role only makes sense if their incentives are properly aligned with value creation. That means it becomes a problem if they are not properly incentivized to create economic value. The rewards of investorship only make sense if those incentives are in place.
 
 # Constructive Policy Solutions
 
