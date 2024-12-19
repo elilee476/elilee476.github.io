@@ -63,7 +63,7 @@ If a lawyer wants to merely represent clients, then they need not incur any duty
 
 # Constructive Policy Solutions
 
-I don't want to just complain about this problem, so I'm going to propose a policy solution that can remedy this misalignment of incentives. The idea is to expose contingency investors to the full spectrum of the upsides and downsides of their investment, just as a regular investor would be in a 100% equity-financed firm without insolvency-creditor agency costs.  
+I don't want to just complain about this problem, so I'm going to propose a policy solution that can remedy this misalignment of incentives. The idea is to expose contingency investors to the full spectrum of the upsides and downsides of their investment, just as a regular investor would be in a 100% equity-financed firm without insolvent-shareholder agency costs.  
 
 The way to create this exposure would be to replicate the contingency investor's upside exposure in the downside case. The mechanism is: whatever share of the winnings a plaintiff's lawyer stands to win if the case is victorious, they should have to pay the equivalent share of the defendant's cost if the claim loses. This way the contingency investor is, as all investors should ideally be, exposed to all changes in the payout levels of the investment they undertake. 
 
