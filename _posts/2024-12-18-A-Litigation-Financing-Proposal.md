@@ -1,6 +1,6 @@
 # A Discussion of Wasteful Plaintiff-side Litigation and Proposal for Reform
 
-The United States is an extremely litigious society. Apart from the U.S. Chamber of Commerce's Legal Reform Institute--there's sadly actually not that much empirical research on just *how* much this screws up the economy. But the Swiss insurance firm Swiss Re, which doesn't have as much of a clear bias, describes this as [follows](https://www.swissre.com/press-release/Litigation-costs-drive-US-liability-claims-by-57-over-past-decade-reveals-Swiss-Re-Institute/0b538159-9648-47da-a152-4550a7640d35):
+The United States is an extremely litigious society. Apart from the U.S. Chamber of Commerce's Institute for Legal Reform, there's sadly actually not that much empirical research on just *how* much this screws up the economy. But the Swiss insurance firm Swiss Re, which doesn't have as much of a clear bias, describes this as [follows](https://www.swissre.com/press-release/Litigation-costs-drive-US-liability-claims-by-57-over-past-decade-reveals-Swiss-Re-Institute/0b538159-9648-47da-a152-4550a7640d35):
 
 > Litigation costs are rising and are now the key driver of liability claims...we observe continuous increases in aggressive litigation practices...Increased claims costs not only create a riskier and more costly environment for businesses but are also a concern for insurers. Over the past five years, US commercial casualty insurance losses grew at an average annual rate of 11% to USD 143 billion in 2023 [my note: many times more than the rate of GDP growth]
 
