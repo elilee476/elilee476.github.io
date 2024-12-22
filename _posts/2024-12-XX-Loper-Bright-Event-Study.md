@@ -2,7 +2,7 @@
 
 ## Is Admin Law Epiphenomenal? 
 
-One of the best words that gets thrown around a lot at Yale Law School is "epiphenomenal." If you ever find yourself in a Yale Law School classroom, and you don't know what's going on, just raise your hand and ask "excuse me professor, but isn't this epiphenomenal?" Your question will be hailed as very intelligent and insightful.
+One of the best words that gets thrown around a lot at Yale Law School is "epiphenomenal." If you ever find yourself in a Yale Law School classroom, and you haven't paying attention or don't know what's going on, just raise your hand and ask "excuse me professor, but isn't this epiphenomenal?" Your question will be hailed as very intelligent and insightful.
 
 All jokes aside, the question of whether, to what degree, and how legal doctrine is epiphenomenal is actually quite important. If legal decisionmaking is driven by forces other than the nature of doctrine, it would be essential for a practicing lawyer to have an understanding of these forces.
 
