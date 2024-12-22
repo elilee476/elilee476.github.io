@@ -1,3 +1,9 @@
+---
+
+tags: ["Law"]
+
+---
+
 # An event study on Loper Bright: How did markets react to a change in admin law doctrine?
 
 ## Is Admin Law Epiphenomenal? 
