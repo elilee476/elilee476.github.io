@@ -34,7 +34,7 @@ All I have to say to that is that without being committed to any particular vers
 
 ## Results
 
-In an [article](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=2656&context=faculty_scholarship) on the use of event studies in insider trading litigation, UPenn Carey Law professors summarize the method as follows:
+In an [article](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=2656&context=faculty_scholarship) on the use of event studies in insider trading litigation, a group of UPenn Carey Law professors summarize the method as follows:
 
 > A typical event study has five basic steps:
 > 1. Identify one or more appropriate event dates
