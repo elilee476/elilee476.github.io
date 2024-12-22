@@ -1,3 +1,9 @@
+---
+
+tags: ["Law"]
+
+---
+
 # A Discussion of Wasteful Plaintiff-side Litigation and Proposal for Reform
 
 The United States is an extremely litigious society. Apart from the U.S. Chamber of Commerce's Institute for Legal Reform, there's sadly actually not that much empirical research on just *how* much this screws up the economy. But the Swiss insurance firm Swiss Re, which doesn't have as much of a clear bias, describes this as [follows](https://www.swissre.com/press-release/Litigation-costs-drive-US-liability-claims-by-57-over-past-decade-reveals-Swiss-Re-Institute/0b538159-9648-47da-a152-4550a7640d35):
