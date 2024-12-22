@@ -49,7 +49,7 @@ I'm pretty skeptical of this view because even if investors priced in a high pro
 
 Now we have to look at some security's return. In what securities would *Loper Bright's* effects show up? Given the extreme reactions of legal commentatators that we saw at the beginning of this post, it really should affect the entire American economy. But the decision would have a particularly large effect on the most highly-regulated industries because those are the industries most exposed to the caprices of the administrative state.
 
-I hope it's not too controversial to say that the most highly regulated industries in the United States are the following: healthcare, insurance, pharma, energy, teleecomms, and banking. Since we are looking at the fates of these industries in comparison to the entire U.S. economy, rather than examining a single security as event studies typically do, we will instead look at indicies for the entire industry.
+I hope it's not too controversial to say that the most highly regulated industries in the United States are the following: healthcare, insurance, pharma, energy, telecomms, and banking. Since we are looking at the fates of these industries in comparison to the entire U.S. economy, rather than examining a single security as event studies typically do, we will instead look at indicies for the entire industry.
 
 How then do we determine the expected return for these industry indices? That term refers to the return we should expect based on securities that share exposure to the same factors *except* for the news of which the event study is intended to test the causal signficance. 
 
