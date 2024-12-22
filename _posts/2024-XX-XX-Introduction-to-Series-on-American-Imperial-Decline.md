@@ -10,8 +10,6 @@ tags: ["The Decline of American Empire"]
 
 The aim of this series is to provide the clearest and most compelling possible presentation of the thought that the United States is in a condition of imperial decline.
 
-As the *Emile* passage suggests: alleging a condition of decline can be utterly banal. If we anything of the metaphor of societies as living beings, or if we merely concede Ecclesiastes' assertion that all human things are impermanent, then we are forced to admit that all societies are always moving towards their inevitable demise.
-
-But the passage also mentions another possibility: "raisons plus particulières que cette maxime." In other (English) words, accusing a society of decline may be trite, but there is a lot more we can say that. 
+As the *Emile* passage suggests: alleging a condition of decline can be utterly banal. If we anything of the metaphor of societies as living beings, or if we merely concede Ecclesiastes' assertion that all human things are impermanent, then we are forced to admit that all societies are always moving towards their inevitable demise. But the passage also mentions another possibility: "raisons plus particulières que cette maxime." In other (English) words, accusing a society of decline may be trite, but there is a lot more we can say that. 
 
 
