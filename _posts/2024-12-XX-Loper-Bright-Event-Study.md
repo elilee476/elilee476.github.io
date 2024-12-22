@@ -51,7 +51,7 @@ Now we have to look at some security's return. In what securities would *Loper B
 
 I hope it's not too controversial to say that the most highly regulated industries in the United States are the following: healthcare, insurance, pharma, energy, teleecomms, and banking. Since we are looking at the fates of these industries in comparison to the entire U.S. economy, rather than examining a single security as event studies typically do, we will instead look at indicies for the entire industry.
 
-How then do we determine th expected return for these industry indices? That term refers to the return we should expect based on securities that share exposure to the same factors *except* for the news of which the event study is intended to test the causal signficance. 
+How then do we determine the expected return for these industry indices? That term refers to the return we should expect based on securities that share exposure to the same factors *except* for the news of which the event study is intended to test the causal signficance. 
 
 That's a difficult concept when dealing with indices rather than single securities. In the latter scenario, we would typically use peer firms (similar business and market cap). But what constitutes a peer industry? We could look at industries of similar size, but what we are really trying to measure is the way that highly-regulated industries changed in ways that differ from the rest of the economy. If *Loper Bright* was such a significant regulatory development, then more regulated industries should see changes that the rest of the economy didn't.
 
