@@ -1,6 +1,6 @@
 ---
 
-tags: ["China Series"] ["Foreign Policy"]
+tags: ["China Series"], ["Foreign Policy"]
 
 ---
 
