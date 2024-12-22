@@ -1,3 +1,9 @@
+---
+
+tags: ["Foreign Policy"]
+
+---
+
 # Stocks, Flows, and the Degradation of the Russian Armed Forces in Ukraine (or lack thereof)
 
 The idea that supplying the Ukrainian military will degrade Russia’s military has been a prominent justification for Western provision of military aid to Ukraine. Secretary of Defense Lloyd Austin [claimed](https://www.politico.eu/article/us-ukraine-russia-war-military-help/) in a February 2022 press conference that the United States is aiding Ukraine because it would like to see a “weakened” Russia. The Rand Corporation, in its analysis of the path of the war, [lists](https://www.rand.org/pubs/perspectives/PEA2510-1.html) as a potential benefit of a long war the sustained “weakening” of Russia’s military.  A recent Pentagon [press release](https://www.defense.gov/News/News-Stories/Article/Article/3671938/dod-official-restates-why-supporting-ukraine-is-in-us-interest/) ominously notes the deaths of 300,000 Russian soldiers in the war, suggesting that such casualties reduce Russia’s military power and revise the European balance of power in favor of the United States and its allies.
