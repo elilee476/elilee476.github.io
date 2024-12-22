@@ -4,9 +4,9 @@
 
 One of the best words that gets thrown around a lot at Yale Law School is "epiphenomenal." If you ever find yourself in a Yale Law School classroom, and you don't know what's going on, just raise your hand and ask "excuse me professor, but isn't this epiphenomenal?" Your question will be hailed as very intelligent and insightful.
 
-All jokes aside, the question of whether, to what degree, and how legal doctrine is epiphenomenal is actually quite fundamental and interesting. If legal decisionmaking is driven by forces other than the nature of doctrine, it would be quite important for a practicing lawyer to have an understanding of these forces.
+All jokes aside, the question of whether, to what degree, and how legal doctrine is epiphenomenal is actually quite important. If legal decisionmaking is driven by forces other than the nature of doctrine, it would be essential for a practicing lawyer to have an understanding of these forces.
 
-I want to offer a brief contribution to this discussion by looking at how markets reacted (or didn't react) to what many legal scholars regard as a major change in administrative law doctrine. What's interesting is that scholars on *both* sides of the debate--both liberal defenders and conservative critics of the admin state--agreed that the Supreme (EXTREME) Court's decision in *Loper Bright* worked a major change in the balance of power between the administrative state and judiciary. 
+I want to offer a brief contribution to this discussion by looking at how markets reacted (or didn't react) to what many legal scholars regard as a major change in administrative law doctrine. What's interesting is that scholars on *both* sides of the debate--both liberal defenders and conservative critics of the admin state--agreed that the Supreme (EXTREME) Court's decision in *Loper Bright* worked a major change in the balance of power between the administrative state, Congress, and the judiciary. 
 
 *Examples*
 
@@ -16,7 +16,7 @@ The wonderful thing about *Loper Bright* is that these kinds of dire predictions
 
 I actually don't really know exactly what *Loper Bright* said (you can think of this post as an apology for my indifference to these kinds of minutia).  It's generally perceived as having overruled a legal doctrine called *Chevron* deference which required courts to defer to agencies' interpretations of statutes as long as the statute was ambigious and the interpretation is reasonable. *Loper Bright*--as far as I can tell--got rid of this system and created a new doctrine that requires courts to impose their own interpretations of statutes when reviewing administrative agency actions.
 
-In other words, what *Loper Bright* does is alter the formal process by which courts justify their decisions about whether and how to supervise the administrative state. If you're tempted by the thought that such decisions are mere epiphenomena, i.e. that they are reflections of other forces and have little or no causal weight of their own, then you wouldn't think that changing the formal processes by which courts arrive at these decisions would matter very much. That's precisely the hypothesis I intend to test.
+At the very least, we can say that what *Loper Bright* does is alter the formal process by which courts justify their decisions about whether and how to supervise the administrative state. If you're tempted by the thought that such formal processes are mere epiphenomena, i.e. that they are the results of other forces and have little or no causal weight of their own, then you wouldn't think that changing the formal processes by which courts arrive at their decisions would matter very much. That's precisely the hypothesis I intend to test.
 
 ## My method 
 
@@ -33,6 +33,31 @@ A final elephant in the room that has to be addressed is the efficient market hy
 All I have to say to that is that without being committed to any particular version, strong or weak, of the EMH, if you really think that the markets analyzed the decision incorrectly, then you're a genius investor, and you can make billions of dollars by trading on your superior insight. You could also win a Nobel Prize for finding such clear evidence of the EMH being wrong in an area where it should be relatively strong (U.S. markets are highly liquid and secure). Anyone who is attracted by the argument I mentioned in the previous paragraph should seriously consider how likely those propositions are to be true. 
 
 ## Results
+
+In an [article](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=2656&context=faculty_scholarship) on the use of event studies in insider trading litigation, UPenn Carey Law professors summarize the method as follows:
+
+> A typical event study has five basic steps:
+> 1. Identify one or more appropriate event dates
+> 2. Calculate the security’s return on each event date
+> 3. Determine the security’s expected return for each event date
+> 4. Subtract the actual return from the expected return to compute the excess return for each event date
+> 5. Evaluate whether the resulting excess return is statistically significant at a chosen level of statistical significance
+
+Let's start with the dates. When should markets have priced in the effects of *Loper Bright*? The most obvious candidate would be the date on which the decision was released. But it's also possible that, given the conservative majority on the court, investors assumed that the *Chevron* would be overturned as soon as the case was granted cert. 
+
+I'm pretty skeptical of this view because even if investors priced in a high probability of *Chevron* being overturned when *Loper Bright* was granted cert, that probability would have been <1, so we should still observe price changes on the day when the decision was announced and raised the probability from <1 to 1. But just to be safe, we'll test both the decision announcement date and the date on which cert was granted.
+
+Now we have to look at some security's return. In what securities would *Loper Bright's* effects show up? Given the extreme reactions of legal commentatators that we saw at the beginning of this post, it really should affect the entire American economy. But the decision would have a particularly large effect on the most highly-regulated industries because those are the industries most exposed to the caprices of the administrative state.
+
+I hope it's not too controversial to say that the most highly regulated industries in the United States are the following: healthcare, insurance, pharma, energy, teleecomms, and banking. Since we are looking at the fates of these industries in comparison to the entire U.S. economy, rather than examining a single security as event studies typically do, we will instead look at indicies for the entire industry.
+
+How then do we determine th expected return for these industry indices? That term refers to the return we should expect based on securities that share exposure to the same factors *except* for the news of which the event study is intended to test the causal signficance. 
+
+That's a difficult concept when dealing with indices rather than single securities. In the latter scenario, we would typically use peer firms (similar business and market cap). But what constitutes a peer industry? We could look at industries of similar size, but what we are really trying to measure is the way that highly-regulated industries changed in ways that differ from the rest of the economy. If *Loper Bright* was such a significant regulatory development, then more regulated industries should see changes that the rest of the economy didn't.
+
+I think that the best way to calculate the expected return of the industry group we're testing is therefore to use a measure of the entire American economy: the S&P 500. So, we're going to look at if the indices for highly-regulated industries differed from the perfomance of the economy as a whole. 
+
+Let's take a look at the returns on both dates:
 
 
 
