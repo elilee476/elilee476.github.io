@@ -61,9 +61,11 @@ How then do we determine the expected return for these industry indices? That te
 
 That's a difficult concept when dealing with indices rather than single securities. In the latter scenario, we would typically use peer firms (similar business and market cap). But what constitutes a peer industry? We could look at industries of similar size, but what we are really trying to measure is the way that highly-regulated industries changed in ways that differ from the rest of the economy. If *Loper Bright* was such a significant regulatory development, then more regulated industries should see changes that the rest of the economy didn't.
 
-I think that the best way to calculate the expected return of the industry group we're testing is therefore to use a measure of the entire American economy: [the MSCI US](https://www.msci.com/documents/10199/255599/msci-usa-index-gross.pdf). So, we're going to look at if the indices for highly-regulated industries differed from the perfomance of the economy as a whole. 
+I think that the best way to calculate the expected return of the industry group we're testing is therefore to use a measure of the entire American economy: the S&P Total Market Index. So, we're going to look at if the indices for highly-regulated industries differed from the perfomance of the economy as a whole. 
 
 Let's take a look at the returns on both dates:
+
+![Loper Bright Decision Date Graph](https://github.com/user-attachments/assets/730ae3c4-5df8-43f3-b102-6f9b9b5b681e)
 
 
 
