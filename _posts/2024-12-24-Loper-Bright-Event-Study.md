@@ -90,6 +90,7 @@ Cert date:
 
 <img width="470" alt="Screen Shot 2024-12-24 at 17 02 55" src="https://github.com/user-attachments/assets/6f951804-d956-4457-bd1f-f3b3abc35e07" />
 
+note: CAAR = cumulative above-average returns
 
 ## Discussion
 
