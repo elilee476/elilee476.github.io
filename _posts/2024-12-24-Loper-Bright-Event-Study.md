@@ -58,13 +58,13 @@ In an [article](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=26
 > 4. Subtract the actual return from the expected return to compute the excess return for each event date
 > 5. Evaluate whether the resulting excess return is statistically significant at a chosen level of statistical significance
 
-Let's start with the dates. When should markets have priced in the effects of *Loper Bright*? The most obvious candidate would be the date on which the decision was released. But it's also possible that, given the conservative majority on the court, investors assumed that the *Chevron* would be overturned as soon as the case was granted cert. 
+Let's start with the dates. When should markets have priced in the effects of *Loper Bright*? The most obvious candidate would be the date on which the decision was released[^1]. But it's also possible that, given the conservative majority on the court, investors assumed that the *Chevron* would be overturned as soon as the case was granted cert. 
 
 I'm pretty skeptical of this view because even if investors priced in a high probability of *Chevron* being overturned when *Loper Bright* was granted cert, that probability would have been <1, so we should still observe price changes on the day when the decision was announced and raised the probability from <1 to 1. But just to be safe, we'll test both the decision announcement date and the date on which cert was granted.
 
 Now we have to look at some security's return. In what securities would *Loper Bright's* effects show up? Given the extreme reactions of legal commentatators that we saw at the beginning of this post, it really should affect the entire American economy. But the decision would have a particularly large effect on the most highly-regulated industries because those are the industries most exposed to the caprices of the administrative state.
 
-I hope it's not too controversial to say that the most highly regulated industries in the United States are the following: healthcare, insurance, pharma, energy, telecomms, and banking. Since we are looking at the fates of these industries in comparison to the entire U.S. economy, rather than examining a single security as event studies typically do, we will instead look at indicies for the entire industry.
+I hope it's not too controversial to say that a diversified and representative group of the most highly regulated industries in the United States would be the following: healthcare, insurance, pharma, energy, and telecomms. Since we are looking at the fates of these industries in comparison to the entire U.S. economy, rather than examining a single security as event studies typically do, we will instead look at indicies for the entire industry.
 
 How then do we determine the expected return for these industry indices? That term refers to the return we should expect based on securities that share exposure to the same factors *except* for the news of which the event study is intended to test the causal signficance. 
 
@@ -72,23 +72,22 @@ That's a difficult concept when dealing with indices rather than single securiti
 
 I think that the best way to calculate the expected return of the industry group we're testing is therefore to use a measure of the entire American economy: the S&P Total Market Index. So, we're going to look at if the indices for highly-regulated industries differed from the perfomance of the economy as a whole. 
 
-Let's take a look at the daily returns on both dates[^1]:
+Let's take a look at the daily returns on both dates[^2]:
 
-![Loper Bright Graph 1](https://github.com/user-attachments/assets/d70614ea-97c4-489c-8fff-1704bf48bb14)
+![Loper Bright Graph 1](https://github.com/user-attachments/assets/0559d279-58a7-4ecc-8519-434acd0538dd)
 
-![Loper Bright Graph 2](https://github.com/user-attachments/assets/c975ddd1-fea7-4f78-9f50-70e07b482d8a)
+![Loper Bright Graph 2](https://github.com/user-attachments/assets/299f1acd-5335-4982-8b63-6f73ead42638)
 
-I used a simple CAPM model to estimate expected returns for these indices based on their correlation with the market index[^2]
+I used a simple CAPM model to estimate expected returns for these indices based on their correlation with the market index[^3]
 
 Decision date:
 
-<img width="347" alt="Screen Shot 2024-12-24 at 16 41 52" src="https://github.com/user-attachments/assets/0d2e1504-181a-408b-8a64-df75485eeec1" />
+<img width="407" alt="Screen Shot 2024-12-24 at 16 58 02" src="https://github.com/user-attachments/assets/e102d956-8f65-4601-96b9-43b82ed4b090" />
 
 Cert date:
 
-<img width="346" alt="Screen Shot 2024-12-24 at 16 46 29" src="https://github.com/user-attachments/assets/04756b87-a46f-43f4-8402-173485582f9b" />
+<img width="470" alt="Screen Shot 2024-12-24 at 17 02 55" src="https://github.com/user-attachments/assets/6f951804-d956-4457-bd1f-f3b3abc35e07" />
 
-Note: CAAR = cumulative above-average returns. Double asterisks indicate statistically significant CAAR assuming normal distribution of returns (only banking after decision date). 
 
 ## Discussion
 
@@ -119,6 +118,8 @@ If you don't like the way the administrative state in the United States currentl
 
 All of the above are quite bold theoretical speculations that may not be fully supported by my results. But even if I'm wrong about all that, I think the results are at least interesting in that they show that the consensus among intelligent and well-informed investors was that *Loper Bright* didn't change anything about how businesses are regulated in the United States in a way that would make them decisively better or worse off. Given the extremely enthusiastic and apocalyptic reception of the decision on both sides of the admin state debate, both sides could stand to reevaluate how they understand the decision. Whatever else it did, it does not appear to have affected the American economy in any significant way. 
 
-[^1]: To make replicating my results easier for any interested readers, I'm sharing the [dataset](https://docs.google.com/spreadsheets/d/1hTWFE5YX6EDu6cHLo2Lj-55cSHYmJfi0jXONyvZIL_M/edit?usp=sharing) I used. Readers, especially skeptical ones, should feel encouraged to use the the the built-in Google Finance data to test different event dates, indices, estimation windows, or more sophisticated calculations for expected returns than my simple CAPM model. I would be happy to discuss and/or update this post with any interesting discoveries. 
+[^1]: A problem with this date is that it was the day after the famous Trump-Biden presidential debate, which in hindsight could be taken as a news item increasing the probability of a Trump victory. That's why testing the cert date in addition is helpful. A longer event window should also help show us lasting effects of an admin law change as opposed to momentary boost from Trump debate buzz. I would also like to note that because the Trump admin is generally perceived as deregulatory, this issue is more likely to result in a Type 1 error (falsely rejecting a null hypothesis) than a Type 2. Since my argument relies on declining to reject the null hypothesis, this is not as dangerous of a problem. 
 
-[^2]: I used an estimation window of -120 days from event date to -11 days. My event observation period was 14 trading days, which is slightly longer than the 5-10 day period event studies typically study. I made this choice in order to be extra sure that the market had time to digest the news of *Loper Bright*. For an overview of my code and additional information on how to run event studies in Stata, see [this paper](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1801800211). 
+[^2]: To make replicating my results easier for any interested readers, I'm sharing the [dataset](https://docs.google.com/spreadsheets/d/1hTWFE5YX6EDu6cHLo2Lj-55cSHYmJfi0jXONyvZIL_M/edit?usp=sharing) I used. Readers, especially skeptical ones, should feel encouraged to use the the the built-in Google Finance data to test different event dates, indices, estimation windows, or more sophisticated calculations for expected returns than my simple CAPM model. I would be happy to discuss and/or update this post with any interesting discoveries. 
+
+[^3]: I used an estimation window of -120 days from event date to -11 days. I assumed a normal distribution for all indices. My event observation period was 10 trading days, which is slightly longer than the 5 day period event studies typically study. I made this choice in order to be extra sure that the market had time to digest the news of *Loper Bright*. For an overview of my code and additional information on how to run event studies in Stata, see [this paper](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1801800211). 
