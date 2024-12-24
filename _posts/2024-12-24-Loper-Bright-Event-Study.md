@@ -6,7 +6,7 @@ tags: ["Law"]
 
 # An event study on Loper Bright: How did markets react to a change in admin law doctrine?
 
-Merry Christmas to the readers of Eli Lee blog. Thank you all for putting up with my verbosity and providing feedback over these past few months. More to come in 2025!
+Merry Christmas to the readers of Eli Lee blog. Thank you all for putting up with my verbosity and for providing feedback over these past few months. More to come in 2025!
 
 ## Is Admin Law Epiphenomenal? 
 
@@ -61,6 +61,8 @@ In an [article](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=26
 Let's start with the dates. When should markets have priced in the effects of *Loper Bright*? The most obvious candidate would be the date on which the decision was released[^1]. But it's also possible that, given the conservative majority on the court, investors assumed that the *Chevron* would be overturned as soon as the case was granted cert. 
 
 I'm pretty skeptical of this view because even if investors priced in a high probability of *Chevron* being overturned when *Loper Bright* was granted cert, that probability would have been <1, so we should still observe price changes on the day when the decision was announced and raised the probability from <1 to 1. But just to be safe, we'll test both the decision announcement date and the date on which cert was granted.
+
+In fact, the above argument applies to any claim that the effects of *Loper Bright* were already priced in when some previous event happened (Kavanaugh confirmation, Trump election victory, etc.) However strongly these events may have allowed investors to predict a result like the one in *Loper Bright*, they did not create complete certainty that such a result would occur. We should therefore still see some price effect associated with the transition from high likelihood to certainty. Anyone who doubts the significance of the price effects when a highly probable event actually occurs should recall that there is an entire class of hedge funds pursuing merger arbitrage strategies that depend on precisely these kinds of highly-likely events. 
 
 Now we have to look at some security's return. In what securities would *Loper Bright's* effects show up? Given the extreme reactions of legal commentatators that we saw at the beginning of this post, it really should affect the entire American economy. But the decision would have a particularly large effect on the most highly-regulated industries because those are the industries most exposed to the caprices of the administrative state.
 
