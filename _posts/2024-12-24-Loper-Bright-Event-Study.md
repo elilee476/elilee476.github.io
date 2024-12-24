@@ -6,6 +6,8 @@ tags: ["Law"]
 
 # An event study on Loper Bright: How did markets react to a change in admin law doctrine?
 
+Merry Christmas to the readers of Eli Lee blog. Thank you all for putting up with my verbosity and providing feedback over these past few months. More to come in 2025!
+
 ## Is Admin Law Epiphenomenal? 
 
 One of the best words that gets thrown around a lot at Yale Law School is "epiphenomenal." If you ever find yourself in a Yale Law School classroom, and you haven't paying attention or don't know what's going on, just raise your hand and ask "excuse me professor, but isn't this epiphenomenal?" Your question will be hailed as very intelligent and insightful.
@@ -14,7 +16,14 @@ All jokes aside, the question of whether, to what degree, and how legal doctrine
 
 I want to offer a brief contribution to this discussion by looking at how markets reacted (or didn't react) to what many legal scholars regard as a major change in administrative law doctrine. What's interesting is that commentators on *both* sides of the debate--both liberal defenders and conservative critics of the admin state--agreed that the Supreme (EXTREME) Court's decision in *Loper Bright* worked a major change in the balance of power between the administrative state, Congress, and the judiciary. 
 
-*Examples*
+Ian Milhiser at Vox [writes](https://www.vox.com/scotus/357900/supreme-court-loper-bright-raimondo-chevron-power-grab):
+
+> The Supreme Court handed down what is likely to be one of its most consequential modern-day decisions on Friday. Loper Bright Enterprises v. Raimondo fully consolidates the Court’s dominance over federal agencies within the executive branch of government. It is a radical reordering of the US separation of powers, giving the one unelected branch of government all of its own power, plus much of the power that Congress has vested in the executive branch.
+
+On the other side, we have the conservative advocacy group ADF's [amicus brief](https://www.supremecourt.gov/DocketPDF/22/22-451/272674/20230724105732487_22-451%20Merits%20Amicus%20Brief%20of%20Christian%20Employers%20Alliance.pdf):
+
+>Chevron deference threatens more than economic vibrancy and separation of powers principles. It also threatens fundamental rights. The absence of accountability for federal agency officials—combined with immense pressure on the executive branch to placate its political base—has made the federal administrative state increasingly susceptible to agendas that abuse the fundamental freedoms and values of the American people. As recounted in this brief, federal agencies routinely use unclear statutory language to impose mandates and spend tax dollars that Congress would never enact to injure the right to life, devalue religious freedom, and contradict important biological distinctions based on sex. 
+
 
 The wonderful thing about *Loper Bright* is that these kinds of dire predictions are empirically testable. 
 
@@ -63,13 +72,25 @@ That's a difficult concept when dealing with indices rather than single securiti
 
 I think that the best way to calculate the expected return of the industry group we're testing is therefore to use a measure of the entire American economy: the S&P Total Market Index. So, we're going to look at if the indices for highly-regulated industries differed from the perfomance of the economy as a whole. 
 
-Let's take a look at the returns on both dates:
+Let's take a look at the daily returns on both dates[^1]:
 
-![Loper Bright Decision Date Graph](https://github.com/user-attachments/assets/730ae3c4-5df8-43f3-b102-6f9b9b5b681e)
+![Loper Bright Graph 1](https://github.com/user-attachments/assets/d70614ea-97c4-489c-8fff-1704bf48bb14)
 
+![Loper Bright Graph 2](https://github.com/user-attachments/assets/c975ddd1-fea7-4f78-9f50-70e07b482d8a)
 
+I used a simple CAPM model to estimate expected returns for these indices based on their correlation with the market index[^2]
 
-## Takeaways
+Decision date:
+
+<img width="347" alt="Screen Shot 2024-12-24 at 16 41 52" src="https://github.com/user-attachments/assets/0d2e1504-181a-408b-8a64-df75485eeec1" />
+
+Cert date:
+
+<img width="346" alt="Screen Shot 2024-12-24 at 16 46 29" src="https://github.com/user-attachments/assets/04756b87-a46f-43f4-8402-173485582f9b" />
+
+Note: CAAR = cumulative above-average returns. Double asterisks indicate statistically significant CAAR assuming normal distribution of returns (only banking after decision date). 
+
+## Discussion
 
 I would summarize these results as supporting three propositions:
 1. The markets don't think *Loper Bright* affected the fortunes of highly-regulated industries in any decisive way.
@@ -88,7 +109,7 @@ Carl Schmitt, [writing](https://archive.org/details/crisisofparliame0000schm_b6i
 
 > Great political and economic decisions on which the fate of mankind rests no longer result today (if they ever did) from balancing opinions in public debate and counterdebate. Such decisions are no longer the outcome of parliamentary debate...As things stand today, it is of course *practically impossible* [my emphasis] not to work with commitees, and increasingly smaller committees; in this way the parliamentary plenum gradually drifts away from its purpose (that is, from its public), and as a result becomes a mere façade.
 >
-> Small and exclusive commmittees of parties or of party coalitions make their decisions behind closed doors, and what representatives of big capitalist interest groups aree to in the smallest committees is more important for the fate of millions of people, perhaps, than any political decisions. The idea of modern parliamentarism, the demand for checks, and the belief in openness and publicity were born in the struggle against the secret politics of absolute princes. The popular sense of freedom and justice was outraged by arcane practices that decided the fate of nations in secret resolutions. But how harmless and idyllic are the objects of cabinet politics in the seventeenth and eighteenth centuries compared with the fate that is at stake today and which is the subject of all manner of secrets [my note: technocapital].
+> Small and exclusive commmittees of parties or of party coalitions make their decisions behind closed doors, and what representatives of big capitalist interest groups agree to in the smallest committees is more important for the fate of millions of people, perhaps, than any political decisions. The idea of modern parliamentarism, the demand for checks, and the belief in openness and publicity were born in the struggle against the secret politics of absolute princes. The popular sense of freedom and justice was outraged by arcane practices that decided the fate of nations in secret resolutions. But how harmless and idyllic are the objects of cabinet politics in the seventeenth and eighteenth centuries compared with the fate that is at stake today and which is the subject of all manner of secrets [my note: the futile struggle to discpline technocapital].
 >
 > In the face of this reality, the belief in a discussion public must suffer a terrible disillusionment...the samllest number still believe that just laws and the right politics can be achieved through newspaper articles, speeches at demonstrations, and parliamentary debates.
 
@@ -97,3 +118,7 @@ We simply can't expect legislative bodies to competently oversee advanced econom
 If you don't like the way the administrative state in the United States currently operates, and I certainly am not its biggest fan, then you either have to make due without advanced capitalism or propose another mechanism that can oversee advanced capitalism with equal or greater competency. Congress is not a serious candidate for such a mechanism, so in the end all we are talking about is alternative forms of the administrative state. I hope conservatives who have valid concerns about the administrative state will take this lesson seriously and stop putting energy into legal changes that in no way influence the historical forces that are actually responsible for the administrative state's power. 
 
 All of the above are quite bold theoretical speculations that may not be fully supported by my results. But even if I'm wrong about all that, I think the results are at least interesting in that they show that the consensus among intelligent and well-informed investors was that *Loper Bright* didn't change anything about how businesses are regulated in the United States in a way that would make them decisively better or worse off. Given the extremely enthusiastic and apocalyptic reception of the decision on both sides of the admin state debate, both sides could stand to reevaluate how they understand the decision. Whatever else it did, it does not appear to have affected the American economy in any significant way. 
+
+[^1]: To make replicating my results easier for any interested readers, I'm sharing the [dataset](https://docs.google.com/spreadsheets/d/1hTWFE5YX6EDu6cHLo2Lj-55cSHYmJfi0jXONyvZIL_M/edit?usp=sharing) I used. Readers, especially skeptical ones, should feel encouraged to use the the the built-in Google Finance data to test different event dates, indices, estimation windows, or more sophisticated calculations for expected returns than my simple CAPM model. I would be happy to discuss and/or update this post with any interesting discoveries. 
+
+[^2]: I used an estimation window of -120 days from event date to -11 days. My event observation period was 14 trading days, which is slightly longer than the 5-10 day period event studies typically study. I made this choice in order to be extra sure that the market had time to digest the news of *Loper Bright*. For an overview of my code and additional information on how to run event studies in Stata, see [this paper](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1801800211). 
