@@ -26,7 +26,7 @@ At the very least, we can say that what *Loper Bright* does is alter the formal 
 
 ## My method 
 
-In securities litigation, a method called an event study is used to test whether a development created a material change in the price of a security. For example, in an insider trading case, in order to decide whether a piece of information that an insider possessed was significant to the stock price of a company, the prosecution would use an event study to demonstrate that when the news was revealed, the company's stock price changed. 
+In securities litigation, a method called an event study is used to test whether a development created a material change in the price of a security. For example, in an insider trading case, the prosecution would use an event study to demonstrate that upon the release of a piece of information improperly disclosed or traded on by an insider, the company's stock price changed. 
 
 The principle behind an event study on a single security is to isolate the changes in that securities' price unique to that security. The movement of stock prices of comparable companies are used to isolate changes that were unique to the specific security being studied as distinguished from macro trends like changes in interest rates or industry-wide developments.
 
