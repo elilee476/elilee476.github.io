@@ -10,7 +10,7 @@ Merry Christmas to the readers of Eli Lee blog. Thank you all for putting up wit
 
 ## Is Admin Law Epiphenomenal? 
 
-One of the best words that gets thrown around a lot at Yale Law School is "epiphenomenal." If you ever find yourself in a Yale Law School classroom, and you haven't paying attention or don't know what's going on, just raise your hand and ask "excuse me professor, but isn't this epiphenomenal?" Your question will be hailed as very intelligent and insightful.
+One of the best words that gets thrown around a lot at Yale Law School is "epiphenomenal." If you ever find yourself in a Yale Law School classroom, and you haven't been paying attention or don't know what's going on, just raise your hand and ask "excuse me professor, but isn't this epiphenomenal?" Your question will be hailed as very intelligent and insightful.
 
 All jokes aside, the question of whether, to what degree, and how legal doctrine is epiphenomenal is actually quite important. If legal decisionmaking is driven by forces other than the nature of doctrine, it would be essential for a practicing lawyer to have an understanding of these forces.
 
@@ -113,7 +113,7 @@ Carl Schmitt, [writing](https://archive.org/details/crisisofparliame0000schm_b6i
 >
 > Small and exclusive commmittees of parties or of party coalitions make their decisions behind closed doors, and what representatives of big capitalist interest groups agree to in the smallest committees is more important for the fate of millions of people, perhaps, than any political decisions. The idea of modern parliamentarism, the demand for checks, and the belief in openness and publicity were born in the struggle against the secret politics of absolute princes. The popular sense of freedom and justice was outraged by arcane practices that decided the fate of nations in secret resolutions. But how harmless and idyllic are the objects of cabinet politics in the seventeenth and eighteenth centuries compared with the fate that is at stake today and which is the subject of all manner of secrets [my note: the futile struggle to discpline technocapital].
 >
-> In the face of this reality, the belief in a discussion public must suffer a terrible disillusionment...the samllest number still believe that just laws and the right politics can be achieved through newspaper articles, speeches at demonstrations, and parliamentary debates.
+> In the face of this reality, the belief in a discussing public must suffer a terrible disillusionment...the samllest number still believe that just laws and the right politics can be achieved through newspaper articles, speeches at demonstrations, and parliamentary debates.
 
 We simply can't expect legislative bodies to competently oversee advanced economies because the latter change and move too quickly. So no matter what legal doctrines your constitution or courts espouse, it is inevitable that an administrative state will rise to power in order to handle the contingencies of capitalism. Courts can police administrative power at the margins and in individual controversial cases, but they can never transfer power back to legislative bodies. That's because those bodies are innately unable to discharge the responsibilities of advanced economic policymaking. This is a proposition supported by the governance history of every advanced economy on earth.  
 
