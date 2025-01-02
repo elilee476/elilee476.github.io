@@ -19,9 +19,9 @@ Let's also look at [capital per worker](https://www.frbsf.org/wp-content/uploads
 
 <img width="626" alt="Screen Shot 2025-01-01 at 21 13 08" src="https://github.com/user-attachments/assets/53132b1c-7b93-465f-a441-5653c5a1d088" />
 
-Once the worst-affected countries in WWII recovered their prewar levels of capital investment, they began to cut into American industrial market share:
+Once the worst-affected countries in WWII recovered their prewar levels of capital investment, they began to [cut into](https://www.nber.org/system/files/chapters/c11297/c11297.pdf) American industrial market share:
 
-![world_goods_exports_lead copy](https://github.com/user-attachments/assets/f8244ba2-8b62-45f4-8ad2-cbcdf6cc259b)
+<img width="502" alt="Screen Shot 2025-01-01 at 21 30 13" src="https://github.com/user-attachments/assets/4fbc6231-7c49-45c5-b04f-1aa2d3e82f26" />
 
 Take Japan as an example:
 
