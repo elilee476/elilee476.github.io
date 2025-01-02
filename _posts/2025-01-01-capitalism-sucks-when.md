@@ -15,7 +15,7 @@ Consider GDP shares by country after WWII:
 
 ![chat copy](https://github.com/user-attachments/assets/15b0b36f-53a9-400b-9cb2-5d6643754c4d)
 
-Let's also look at [capital per worker]((https://www.frbsf.org/wp-content/uploads/wp04-14bk.pdf)levels:
+Let's also look at [capital per worker](https://www.frbsf.org/wp-content/uploads/wp04-14bk.pdf)levels:
 
 <img width="626" alt="Screen Shot 2025-01-01 at 21 13 08" src="https://github.com/user-attachments/assets/53132b1c-7b93-465f-a441-5653c5a1d088" />
 
