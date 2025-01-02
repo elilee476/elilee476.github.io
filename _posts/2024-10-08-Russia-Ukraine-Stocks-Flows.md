@@ -22,14 +22,14 @@ In fact, precisely this outcome happened to Russia, with 90% of its initial inva
 
 Once we see how much the flow of militarily relevant quantities of troops and materiel determines the outcomes of war rather than initial stocks, the assumption that reducing a state’s stock of troops or materiel can change long-run balances of power looks less compelling. Even if you can inflict casualties and destroy vehicles, if a state maintains or can develop high enough flow rates to replace these losses, then the casualties and destruction will not actually lower its long-run military power. Unless the state loses enough people and equipment to capitulate, its flow rates can make up for any losses caused at a specific point in time. 
 
-So far, I’ve discussed stocks vs flows as heuristics for military power entirely in the abstract, but my ultimate intention is to apply the distinction to explain why it’s mistaken to think that supplying military aid to Ukraine will make Russia’s military weaker. One reason we can be confident that this view is mistaken is simply that it has already been empirically refuted. Supreme Allied Commander Europe General Christopher G. Cavoli [testified](https://www.armed-services.senate.gov/imo/media/doc/cavoli_statement.pdf) to Congress in April that Russia’s military is more powerful today than when the war began. General Cavoli’s words are worth quoting in full:
+So far, I’ve discussed stocks vs flows as heuristics for military power entirely in the abstract, but my ultimate intention is to apply the distinction to explain why it’s mistaken to think that supplying military aid to Ukraine will make Russia’s military weaker. One reason we can be confident that this view is mistaken is simply that it has already been empirically refuted. Supreme Allied Commander Europe General Christopher G. Cavoli [testified](https://www.armed-services.senate.gov/imo/media/doc/cavoli_statement.pdf) to Congress[^3] in April that Russia’s military is more powerful today than when the war began. General Cavoli’s words are worth quoting in full:
 
 > Russia is on track to command the largest military on the continent and a defense industrial complex capable of generating substantial amounts of ammunition and materiel in support of large-scale combat operations. Regardless of the outcome of the war in Ukraine, Russia will be larger, more lethal, and angrier with the West than when it invaded.
 
 A simple chart tells the same story:
 
 ![](/Picture1.png) 
-[^3]
+[^4]
 
 2025 Addendum: We now have another quote from a highly-placed General saying essentially the same thing as Gen. Cavoli...Russia's military is stronger now than it was before the war:
 
@@ -55,6 +55,8 @@ If you want to defend the fact that we are providing military aid to Ukraine, th
 
 [^2]: Or in the case of a state growing its military—these observations only tell us the speed that a state has decided to execute such growth, and not its maximum potential to produce materiel and recruit new soldiers.
 
-[^3]: I compiled this chart from Russian MO published numbers for recruiting and publicly-leaked Western intelligence estimates of Russian casualties near the end of the year ([2022](https://www.nytimes.com/2023/04/13/world/europe/russia-intelligence-leaks.html?partner=slack&smid=sl-share), [2023](https://www.reuters.com/world/us-intelligence-assesses-ukraine-war-has-cost-russia-315000-casualties-source-2023-12-12/), [2024](https://www.wsj.com/world/one-million-are-now-dead-or-injured-in-the-russia-ukraine-war-b09d04e5)). 
+[^3]: Surprisingly, some defenders of our policy in Ukraine have argued to me that we should not credit the public statements of American military officials because their statements are attempts to shape the information environment rather than accurate reports of how they understand reality on the ground. My response to this is that these statements were delivered under oath as testimony to Congress, rendering any willful misrepresentation a felony. There is no exception in the statute for information warfare. I therefore find it extremely unlikely that these statements do not represent these officials' true understanding of the Russian military's strength.  
+
+[^4]: I compiled this chart from Russian MO published numbers for recruiting and publicly-leaked Western intelligence estimates of Russian casualties near the end of the year ([2022](https://www.nytimes.com/2023/04/13/world/europe/russia-intelligence-leaks.html?partner=slack&smid=sl-share), [2023](https://www.reuters.com/world/us-intelligence-assesses-ukraine-war-has-cost-russia-315000-casualties-source-2023-12-12/), [2024](https://www.wsj.com/world/one-million-are-now-dead-or-injured-in-the-russia-ukraine-war-b09d04e5)). 
 
 
