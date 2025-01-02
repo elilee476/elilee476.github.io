@@ -97,7 +97,7 @@ note: CAAR = cumulative above-average returns
 I would summarize these results as supporting three propositions:
 1. The markets don't think *Loper Bright* affected the fortunes of highly-regulated industries in any decisive way.
 2. Either that is the correct assessment or you are a genius hedge fund investor (EMH).
-3. If *Loper Bright* did not affect any highly-regulated industries' fortunes, then it's not very plausible that insufficently-constraining legal results are responsible for the administrative state's power.  
+3. If *Loper Bright* did not affect any highly-regulated industries' fortunes, then it's not very plausible that excessively permissive legal doctrines are responsible for the administrative state's power.  
 
 It may be worth it to say a little more about what that last point means.
 
