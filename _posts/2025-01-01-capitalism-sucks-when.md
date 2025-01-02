@@ -28,7 +28,12 @@ Once the worst-affected countries in WWII recovered their prewar levels of capit
 <img width="464" alt="Screen Shot 2025-01-01 at 21 32 30" src="https://github.com/user-attachments/assets/cd84232b-e889-421b-a324-6a23c403619f" />
 
 
+
+
 Take Japan as an example:
+
+
+
 
 <img width="415" alt="Screen Shot 2025-01-01 at 21 33 54" src="https://github.com/user-attachments/assets/63097ba9-7498-4d63-9d28-b7e3eadfda2a" />
 
