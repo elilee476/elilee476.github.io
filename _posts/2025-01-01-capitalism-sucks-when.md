@@ -23,6 +23,8 @@ Let's also look at [capital per worker](https://www.frbsf.org/wp-content/uploads
 
 
 
+ 
+ 
 Once the worst-affected countries in WWII recovered their prewar levels of capital investment, they began to [cut into](https://www.nber.org/system/files/chapters/c11297/c11297.pdf) American industrial market share:
 
 
@@ -32,6 +34,7 @@ Once the worst-affected countries in WWII recovered their prewar levels of capit
 
 
 
+   
 Take Japan as an example:
 
 
