@@ -22,8 +22,7 @@ Ian Milhiser at Vox [writes](https://www.vox.com/scotus/357900/supreme-court-lop
 
 On the other side, we have the conservative advocacy group ADF's [amicus brief](https://www.supremecourt.gov/DocketPDF/22/22-451/272674/20230724105732487_22-451%20Merits%20Amicus%20Brief%20of%20Christian%20Employers%20Alliance.pdf):
 
->Chevron deference threatens more than economic vibrancy and separation of powers principles. It also threatens fundamental rights. The absence of accountability for federal agency officials—combined with immense pressure on the executive branch to placate its political base—has made the federal administrative state increasingly susceptible to agendas that abuse the fundamental freedoms and values of the American people. As recounted in this brief, federal agencies routinely use unclear statutory language to impose mandates and spend tax dollars that Congress would never enact to injure the right to life, devalue religious freedom, and contradict important biological distinctions based on sex. 
-
+>Chevron deference threatens more than economic vibrancy and separation of powers principles. It also threatens fundamental rights. The absence of accountability for federal agency officials—combined with immense pressure on the executive branch to placate its political base—has made the federal administrative state increasingly susceptible to agendas that abuse the fundamental freedoms and values of the American people...When left to their own devices—or to the political calculations of the White House—agencies stretch and strain their authority to burden the everyday lives of American citizens in ways Congress never imagined, much less prescribed. 
 
 The wonderful thing about *Loper Bright* is that these kinds of dire predictions are empirically testable. 
 
