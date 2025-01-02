@@ -18,15 +18,23 @@ Consider GDP shares by country after WWII:
 
 Let's also look at [capital per worker](https://www.frbsf.org/wp-content/uploads/wp04-14bk.pdf) levels:
 
-<img width="626" alt="Screen Shot 2025-01-01 at 21 13 08" src="https://github.com/user-attachments/assets/53132b1c-7b93-465f-a441-5653c5a1d088" />
+
+<img width="415" alt="Screen Shot 2025-01-01 at 21 33 38" src="https://github.com/user-attachments/assets/d1d870d1-4ea0-4a68-8376-cda14aafd9b6" />
+
 
 Once the worst-affected countries in WWII recovered their prewar levels of capital investment, they began to [cut into](https://www.nber.org/system/files/chapters/c11297/c11297.pdf) American industrial market share:
 
-<img width="502" alt="Screen Shot 2025-01-01 at 21 30 13" src="https://github.com/user-attachments/assets/4fbc6231-7c49-45c5-b04f-1aa2d3e82f26" />
+
+<img width="464" alt="Screen Shot 2025-01-01 at 21 32 30" src="https://github.com/user-attachments/assets/cd84232b-e889-421b-a324-6a23c403619f" />
+
 
 Take Japan as an example:
 
-<img width="413" alt="Screen Shot 2025-01-01 at 21 19 06" src="https://github.com/user-attachments/assets/a1789eba-e641-4828-9a01-d94a1874814d" />
+<img width="415" alt="Screen Shot 2025-01-01 at 21 33 54" src="https://github.com/user-attachments/assets/63097ba9-7498-4d63-9d28-b7e3eadfda2a" />
+
+
+
+
 
 The intuitive story for this would be as follows. Japan's capital stock gets destroyed in the fighting of WWII. After that happens, they have no choice but to import industrial products from the United States. But once they recover enough to start rebuilding capital equipment, they start to compete with us in industries like autos and consumer electronics, cutting into our market share and eliminating monopoly rents which were previously shared between American labor and capital. The exact same thing happens with Europe too.
 
