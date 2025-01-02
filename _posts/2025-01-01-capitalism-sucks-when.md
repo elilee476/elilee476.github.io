@@ -19,21 +19,23 @@ Consider GDP shares by country after WWII:
 Let's also look at [capital per worker](https://www.frbsf.org/wp-content/uploads/wp04-14bk.pdf) levels:
 
 
-[Screen Shot 2025-01-01 at 21.32.30.pdf](https://github.com/user-attachments/files/18287360/Screen.Shot.2025-01-01.at.21.32.30.pdf)
+<img width="464" alt="Screen Shot 2025-01-01 at 21 32 30" src="https://github.com/user-attachments/assets/fd159cfd-9934-4cb3-ac69-af9ab2366a03" />
 
 
 
 Once the worst-affected countries in WWII recovered their prewar levels of capital investment, they began to [cut into](https://www.nber.org/system/files/chapters/c11297/c11297.pdf) American industrial market share:
 
 
-[Screen Shot 2025-01-01 at 21.33.38.pdf](https://github.com/user-attachments/files/18287361/Screen.Shot.2025-01-01.at.21.33.38.pdf)
+<img width="408" alt="Screen Shot 2025-01-01 at 21 33 38" src="https://github.com/user-attachments/assets/11af0739-2457-4aa2-a5b2-c4358a479092" />
+
+
 
 
 
 Take Japan as an example:
 
 
-[Screen Shot 2025-01-01 at 21.33.54.pdf](https://github.com/user-attachments/files/18287362/Screen.Shot.2025-01-01.at.21.33.54.pdf)
+<img width="415" alt="Screen Shot 2025-01-01 at 21 33 54" src="https://github.com/user-attachments/assets/dced3f01-889a-418d-be0f-1b7f1dc86f80" />
 
 
 
