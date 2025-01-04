@@ -31,9 +31,9 @@ A simple chart tells the same story:
 ![](/Picture1.png) 
 [^4]
 
-2025 Addendum: We now have another quote from a highly-placed General saying essentially the same thing as Gen. Cavoli...Russia's military is stronger now than it was before the war:
+*2025 Addendum: We now have another quote from a highly-placed General saying essentially the same thing as Gen. Cavoli...Russia's military is stronger now than it was before the war:*
 
-[US Air Force general: Russia military larger, better than before Ukraine invasion](https://www.voanews.com/a/us-air-force-general-russia-military-larger-better-than-before-ukraine-invasion/7788601.html)
+[*US Air Force general: Russia military larger, better than before Ukraine invasion*](https://www.voanews.com/a/us-air-force-general-russia-military-larger-better-than-before-ukraine-invasion/7788601.html)
 
 Here we have unequivocal evidence—interpreted by the best-informed officials in the U.S. government—that supplying Ukraine in the war has not only failed to weaken Russia but actually produced the opposite outcome. Understanding military power as a flow, as the General alludes to when he invokes Russia’s “defense industrial complex," tells us why this happened. Although American and Western aid may have helped inflict casualties on the Russian military, Russia has been able to replace their casualties and destroyed systems by recruiting new troops and building new systems. And not only have they done so at a sufficient rate to replace the casualties caused by Western aid, but they have even managed to expand their military and make it more lethal *while fighting the war*. Even though Western military aid has decreased Russia’s 2022 stocks of military power, it has increased their analogous flows, rendering the Russian military more powerful in the long run.
 
@@ -55,7 +55,7 @@ If you want to defend the fact that we are providing military aid to Ukraine, th
 
 [^2]: Or in the case of a state growing its military—these observations only tell us the speed that a state has decided to execute such growth, and not its maximum potential to produce materiel and recruit new soldiers.
 
-[^3]: Surprisingly, some defenders of our policy in Ukraine have argued to me that we should not credit the public statements of American military officials because their statements are attempts to shape the information environment rather than accurate reports of how they understand reality on the ground. My response to this is that these statements were delivered under oath as testimony to Congress, rendering any willful misrepresentation a felony. There is no exception in the statute for information warfare. I therefore find it extremely unlikely that these statements do not represent these officials' true understanding of the Russian military's strength.  
+[^3]: Some defenders of our policy in Ukraine have argued to me that we should not credit the public statements of American military officials because their statements are attempts to shape the information environment rather than accurate reports of how they understand reality on the ground. My response to this is that these statements were delivered under oath as testimony to Congress, rendering any willful misrepresentation a felony. There is no exception in the federal perjury statute for information warfare. I therefore find it extremely unlikely that these statements do not represent these officials' true understanding of the Russian military's strength.  
 
 [^4]: I compiled this chart from Russian MO published numbers for recruiting and publicly-leaked Western intelligence estimates of Russian casualties near the end of the year ([2022](https://www.nytimes.com/2023/04/13/world/europe/russia-intelligence-leaks.html?partner=slack&smid=sl-share), [2023](https://www.reuters.com/world/us-intelligence-assesses-ukraine-war-has-cost-russia-315000-casualties-source-2023-12-12/), [2024](https://www.wsj.com/world/one-million-are-now-dead-or-injured-in-the-russia-ukraine-war-b09d04e5)). 
 
