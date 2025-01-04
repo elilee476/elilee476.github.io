@@ -49,7 +49,7 @@ The problem with this move is that determinacy as such is not the same thing as 
 
 ## How should judges decide cases?
 
-In all honesty, I don't know how judges decide cases. But I am confident that judges don't care what a random github blog has to say about how they should decide cases. However, to preempt any objections that I've provided nothing constructive with my theses, I'll briefly discuss what I understand to be their practical consequences for legal practice.
+In all honesty, I don't know how judges should decide cases. But I am confident that judges don't care what a random github blog has to say about how they should decide cases. However, to preempt any objections that I've provided nothing constructive with my theses, I'll briefly discuss what I understand to be their practical consequences for legal practice.
 
 One outcome of the accepting the theses is that if the law 1) does not in fact decide for us what the result of a case should be, 2) does not take the power of legal coercion out of concrete people's hands, and 3) does not allow us to pass blame for legal outcomes onto the writers of rules as a class distinct from rule-appliers, then no judge's claim to have their "hands tied" by the nature of a legal rule should be accepted. 
 
