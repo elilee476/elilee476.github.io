@@ -4,11 +4,13 @@ Several weeks ago I [posted](https://elilee476.github.io/2024/11/08/Four-Critica
 
 There was an entire school of legal theory in the late 20th century called "Critical Legal Studies" about which much has been [said](https://www.yalelawjournal.org/essay/reconstructing-critical-legal-studies). There is also now a rising school on the right called Common Good Constitutionalism which has been compared to CLS in the sense that it similarly disregards fixed legal constraints in favor of moralizing and outcome-driven judging. 
 
-I'm not committed to any particular form of analogy existing between CLS and Common Good Constitutionalism, but I do think it's worth trying to describe the disillusioned attitude about law's capacity to transcend politics that animates both tendencies. Supporters of both have tended to avoid mainstream Anglo jurisprudential ways of presenting their ideas in favor of more historical approaches that depict the contingencies in past thinkers' constructions of legal theories. In doing so, they often talk past many of their critics who refuse to listen to their ideas unless they are presented in clear theoretical and logical terms. I hope to take steps towards alleviating this miscommunication by giving the case for a set of precise theoretical theses here. I will restate each thesis in the header of the following sections and then attempt to describe what it means and give arguments in favor of it. In prosecuting that objective, I will frequently, if not always, draw on the thinking of Carl Schmitt. 
+I'm not committed to any particular form of analogy existing between CLS and Common Good Constitutionalism, but I do think it's worth trying to describe the disillusioned attitude about law's capacity to transcend politics that animates both tendencies. Supporters of both have tended to avoid mainstream Anglo jurisprudential ways of presenting their ideas in favor of more historical approaches that depict the contingencies in past thinkers' constructions of legal theories. In doing so, they often talk past many of their critics who refuse to take anyone's ideas seriously unless they are presented in clear theoretical and logical terms. 
+
+I hope to take a step towards alleviating this miscommunication by giving the case for a set of precise theoretical theses here. I will restate each thesis in the header of the following sections and then attempt to describe what it means and give arguments in favor of it. In prosecuting that objective, I will frequently, if not always, draw on the thinking of Carl Schmitt. 
 
 ## The rules can't tell you how to follow the rules
 
-Put more specifically in the legal context: legal rules cannot tell you what conduct complies with or violates the law.
+Put more specifically in the legal context: the law cannot be derived from the content of legal rules.
 
 My arguments here will be primarily in response to Professor Larry Solum's discssusion of Wittgenstein-inspired rule skepticism in a [law review article](https://scholarship.law.georgetown.edu/cgi/viewcontent.cgi?article=2958&context=facpub) on indeterminacy. I will try to give a fair presentation of what I understand as Solum's attempt at refuting this thesis and then provide two interrelated objections, the outcome of which I take to validate the thesis. 
 
@@ -18,11 +20,11 @@ We'll start with Solum's version of the thesis:
 
 [better and more explanation of rule-skepticism] 
 
-Solum's first approach against the rule-skeptic proceeds by conceding that rules like traffic codes are *theoretically* vulnerable to rule-skeptical attack but in practice meaningless. This means that while it is in theory true that the content of the rule can allow for any outcome due to interpretive ambiguity about what its terms mean, in actual legal practice this ambiguity does not prevent courts from issuing tickets for running red lights. 
+Solum's first approach against the rule-skeptic proceeds by conceding that rules like traffic codes are *theoretically* vulnerable to rule-skeptical attack but in practice meaningless. This means that while it logicall possible that the content of the rule can allow for any outcome due to interpretive ambiguity about what its terms mean, in actual legal practice this ambiguity does not prevent courts from issuing tickets for running red lights. 
 
 Another way of expressing Solum's argument is with the classic law review phrase that rule-skepticism "proves too much." Because rule-skepticism destroys the posssibility of *any* rule-following behavior, it holds no more danger for the lawyer than it does for a chess-player. Playing chess according to the rules is clearly possible, even though skeptical attacks can in theory be succesfully raised against any claim to be following the rules of chess, so (Solum thinks) an identical conclusion can be drawn about legal practice. Rule-skepticism is thus banished to the philosophy classroom and holds no "practical bite."
 
-Why is it possible to play chess or practice law even though an overabstract philosopher can make skeptical attacks about the interpretation of the rules? In both cases, following Kripke's "solution" to Wittgensteinian rule-skepticism, Solum believe it is because there is a background of community agreement on how to interpret the rules. The rules themselves may not contain sufficient resources to head off skeptical attacks, but because legal practice takes place in actual communities, what the community *thinks* about how rules should be interpreted can be used to answer a skeptic who postulates absurd interpretive rules. 
+Why is it possible to play chess or practice law even though an overabstract philosopher can make skeptical attacks about the interpretation of the rules? In both cases, following Kripke's "solution" to Wittgensteinian rule-skepticism, Solum believe it is because there is a background of community agreement on how to interpret the rules. The rules themselves may not contain sufficient resources to head off skeptical attacks, but because legal practice takes place in actual communities, what the community *thinks* about how rules should be interpreted can be used to answer a skeptic who postulates interpretive attacks against any interpretation of a rule. 
 
 At this stage, we can summarize Solum's argument in three stages:
 1. General rule-skepticism, and therefore legal rule-skepticism, is indefeasaible.
@@ -31,9 +33,11 @@ At this stage, we can summarize Solum's argument in three stages:
 
 I obviously agree with the first step, but I think (2) is wrong, and (3) is just another way of saying exactly what my thesis claims: the outcomes demanded by the rules cannot be deduced from the content of the rules themselves. 
 
-Starting with (2), it is obvious that the law's interpretive ambiguity *does* have bite in *some* cases. Much constitutional litigation is nothing more than a dispute over what terms like "due process" or "cruel" and "unusual" mean. Solum is aware of this, but he thinks that the fact that this is only universally recognized true for some cases means that the law is not completely indeterminate, merely sometimes underdetermined. In general, throughout the article, Solum is often satisfied with proving that indeterminacy or underdeterminacy can be cabined to hard cases, rendering the rest of the law perfectly determinate and clear.
+Starting with (2), it is obvious that the law's interpretive ambiguity *does* have bite in *some* cases. Much constitutional litigation is nothing more than a dispute over what terms like "due process" or "cruel" and "unusual" mean. Solum is aware of this, but he thinks that the fact that this is only universally recognized true for some cases means that the law is not completely indeterminate, merely sometimes underdetermined. In general, throughout his article, Solum is often satisfied with proving that indeterminacy or underdeterminacy can be cabined to hard cases, rendering the rest of the law perfectly determinate and clear.[^1]
 
-The problem with this move is that determinacy as such is not the same thing as determinacy arising exclusively from the content of rules.  
+I think that's a pretty glib way of dismissing the issue of indeterminacy, but that's sort of an issue for another time. All I will say for now is that nobody would call Stalinism a law-bound governance system just because some of its rules, like traffic violations, have relatively determinate applications. What I mean by that is that proving that merely some cases of determinacy exist does not go very far in answering the actual concern that CLS has with the legal system: that it frequently (perhaps not 100% of the time) serves as a mask for domination. Put less academically, the fact that legal rules have interpretive ambiguity is a fact that's quite consequential for our legal system, so Wittengensteinian rule-skepticism is completely practical concern for any engaged citizen.  
+
+The bigger problem with Solum's move is that determinacy as such is not the same thing as determinacy arising exclusively from the content of rules. Just because I can predict how a rule will be interpreted and applied does not mean that the rule itself is determinate. Again, Solum, who is a careful and thorough reasoner, is perfectly aware of this. He admits that in order to succeed in showing that rules can be determinate in some cases,he must make recourse to 
 
 
 ## Sovereignty is always conserved
@@ -59,5 +63,6 @@ We often see claims like this when judges calling themselves "textualists" or "o
 
 Scalia was upset that the code didn't use the phrase "if applicable" and instead went with the mere "applicable." In justifying the absurd result that debtors can claim financing expenses for assets which they did not finance, Scalia is satisfied to just blaim Congress for not writing the law correctly. But if one takes my critical theses into account, then no such move is possible. 
 
+[^1]: 
 
 
