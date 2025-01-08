@@ -24,7 +24,7 @@ On first inspection, one might think there is nothing pernicious about contigenc
 
 ## An Illustration from Corporate Law 
 
-Contingency resembles the concept of equity investment. Equity investors in a firm receive a share of the upside if the firm performs well and lose their investment if the firm fails. We can think of this as holding a call option on the firm's cashflows. Below a certain level of return, the investor has a capped downside equal to the cost of their investment; above that level, the investor's upside is uncapped. Since this call-option structure of equity investment constitutes a fundamental and extremely common way that firms raise capital, what could be wrong with legal contingency investors doing the same? 
+Contingency resembles the concept of equity investment. Equity investors in a firm receive a share of the upside if the firm performs well and lose their investment if the firm fails. We can think of this as holding a [call option] (https://pages.stern.nyu.edu/~adamodar/New_Home_Page/lectures/opt.html) on the firm's cashflows. Below a certain level of return, the investor has a capped downside equal to the cost of their investment; above that level, the investor's upside is uncapped. Since this call-option structure of equity investment constitutes a fundamental and extremely common way that firms raise capital, what could be wrong with legal contingency investors doing the same? 
 
 ![Long-Call](https://github.com/user-attachments/assets/3aabea1a-bfde-4243-81fe-afbc004975ca)
 
