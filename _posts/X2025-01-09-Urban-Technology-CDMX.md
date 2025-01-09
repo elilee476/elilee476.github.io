@@ -23,14 +23,29 @@ One response to this trend has been proposals from technologists to sidestep par
 
 One example of this is the startup [Via](https://ridewithvia.com/), which seeks to recreate public transportation but with access limited to vetted, paying customers. Another example is the app [Citizen](https://citizen.com/), which allows users to avoid avoid areas of high-crime-occurence by providing them with live data on where and which crimes are taking place. Others believe that generative AI (a tool for creating written or visual content) will somehow improve urban living conditions, though I'm not aware of any concrete proposals for how this would be accomplished.
 
-It's perfectly fine for companies to attempt to sell these products to users who are willing to pay for them. But I think 
+It's perfectly fine for companies to attempt to sell these products to users who are willing to pay for them. But I think the focus among technologists on this species of solution has led to some intellectual errors. 
+
+First, while some users may find it worth it to pay for these products, we ought not to conclude that lining VC's pockets is the only way to make effective, scalable improvements in urban living conditions. Policies like the one depicted in the post's opening photo could be easily accompolished by municipal transit agencies without any need to impose the additional costs and access-limitations on transit-users assosiciated with providing a margin of profit for private investors. In other words, if we think that a good solution to declining urban safety is to create spaces for the vulnerable to receive extra protection from violence, then it would be wasteful to implement these solutions exclusively using private sector methods that inherently tend to limit access to their products to the affluent. 
+
+A related error is technologists' misunderstanding of the magnitude of harm associated with decline in levels of urban public safety. Many of these technologists argue that because it is possible (using technology products from which they profit) to create private spaces where the affluent can be protected from these trends, they are not as worth emphasizing as some elements of the right-populist coalition believe they are.  
+
+I think this view underestimates the societal costs of using privatization to address negative social developments. Let me try to be more concrete: if you think that privatization can protect you from your country turning into an inegalitarian, violent mess; then you misunderstand what actual inegalitarian and violent societies are like. 
+
+Contrary to the view of these societies that I believe many Americans hold, they do not consist of violence and expropriation distributed equally across all social classes. Instead, poor societies that have high levels of violence and property crime almost always have privatized and protected spaces for the wealthy. 
+
 
 ## Straussian Moment
 
-I was once at an event hosted by an institution that began its life as an effort to translate populist political energy into serious reforms backed by capable elites. When someone at this event asked me what I thought the most important political issue in the country was, I responded by saying immigration. Everyone within earshot laughed at this idea.
+I apologize for being circumspect because I'm writing under my own name.  
 
-I have to concede that my general behavior at this event was perhaps not fully compliant with the social expectations of elite bureaucrat gatherings, but I still think this response was dispositive.
+I was once at an event hosted by an organization that began its life as an effort to translate right-populist political energy into serious reforms backed by capable elites. When people at this event were asked to go around in a circle and say what they thought the most important political issue in the country was, I responded by saying immigration. Everyone in the circle laughed at this idea.
 
-It is possible to focus on policy solutions like the one in the photo in order to improve life in American cities. Doing so is probably a better route for both career advancement and immediate impact than attempting to address the underlying reasons why urban living conditions have deteriorated so dramatically in past years. While I can concede it is healthy for politically-involved young professionals to use the decision criteria in the previous sentence to select which policy proposals to pursue, the demand to focus on practical and easily-implementable solutions can also obscure certain important phenomena.
+I have to concede that my general behavior at this event was perhaps not fully compliant with the social expectations of elite bureaucrat gatherings, but I still think this response was illuminating.
 
-I believed that anyone who was involved in creating the situation in which American cities need a women-and-children only subway 
+It is sometimes desirable to focus on policy solutions like the one in this post's opening image. Focusing on practical and achievable objectives is probably a better route for both career advancement and immediate impact than attempting to address the underlying reasons why urban living conditions have deteriorated so dramatically in past years. While I can concede it is healthy for politically-involved young professionals to use the decision criteria of practicality and feasability for selecting which policy proposals to promote, the decision to focus on easily-implementable solutions can also obscure certain important phenomena.
+
+Anyone who was involved in creating a situation in which American cities would be better off with women-and-children only subway cars should not hold any influential place in public life beyond writing mournful "how could we go so wrong" retrospectives. While it may be quixotic to attempt to revive the social order in which there was no need for such policies, it does **not** follow that it is equally pointless to disempower those who were responsible for the negative changes.
+
+It would be an enormous mispricing of reputational costs if such people did not face professional consquences for the policies they chose to support. Those who want to create a rational discursive environment for the formation of public policy should favor imposing costs for associating oneself with harmful policies. These costs ought to be commensurate with the harms that those policies have created. 
+
+I'll try to be a little more direct: if you are someone who wants to be associated with populist political formations on the right, and you think it's funny that someone would regard immigration as a fundamental political issue, then I have no choice but to assume you are a mercenary clout-seeking hack. 
