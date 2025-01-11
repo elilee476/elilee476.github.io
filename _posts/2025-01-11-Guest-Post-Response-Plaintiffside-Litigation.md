@@ -7,7 +7,8 @@ tags: ["Law"]
 
 # Guest Post by Thomas Hanes: Plaintiffside Litigation
 
-This is a repsonse by Thomas Hanes to the [post](https://elilee476.github.io/2024/12/18/A-Litigation-Financing-Proposal.html) on plaintiffside litigation financing that I wrote a few weeks ago. 
+
+Eli's note: This is a repsonse by Thomas Hanes to the [post](https://elilee476.github.io/2024/12/18/A-Litigation-Financing-Proposal.html) on plaintiffside litigation financing that I wrote a few weeks ago. 
 
 ## In Short
 
