@@ -1,10 +1,14 @@
-![image](https://github.com/user-attachments/assets/da78bf51-7780-4210-ba40-91d0d756c58d)![image](https://github.com/user-attachments/assets/150eed70-f7aa-4e19-ab60-c62537ca6dc0)![image](https://github.com/user-attachments/assets/ddc262f9-e4cb-47a3-a492-78b4a74b7b7b)![image](https://github.com/user-attachments/assets/727e069c-c898-4ade-b3aa-5bb556758988)![image](https://github.com/user-attachments/assets/6207911a-7882-4468-9816-2e923d998a82)![image](https://github.com/user-attachments/assets/03ff4476-0165-470f-a742-c969b7bb2a29)---
+---
+title: Plaintiff Side Litigation 
+author: Thomas Hanes
+date: today
+---
+
+---
 
 tags: ["Law"]
 
 ---
-
-# Plaintiff Side Litigation
 
 This is a repsonse by Tom Hanes to the [post](https://elilee476.github.io/2024/12/18/A-Litigation-Financing-Proposal.html) on plaintiff-side litigation financing that I wrote a few weeks ago.
 
