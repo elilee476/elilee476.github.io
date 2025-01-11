@@ -1,11 +1,8 @@
 ---
+
 title: Plaintiff Side Litigation 
 author: Thomas Hanes
 date: today
----
-
----
-
 tags: ["Law"]
 
 ---
