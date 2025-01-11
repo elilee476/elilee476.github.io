@@ -1,13 +1,13 @@
 ---
 
-title: Plaintiff Side Litigation 
 author: Thomas Hanes
-date: today
 tags: ["Law"]
 
 ---
 
-This is a repsonse by Tom Hanes to the [post](https://elilee476.github.io/2024/12/18/A-Litigation-Financing-Proposal.html) on plaintiff-side litigation financing that I wrote a few weeks ago.
+# Plaintiffside Litigation
+
+This is a repsonse by Tom Hanes to the [post](https://elilee476.github.io/2024/12/18/A-Litigation-Financing-Proposal.html) on plaintiffside litigation financing that I wrote a few weeks ago.
 
 ## In Short
 
