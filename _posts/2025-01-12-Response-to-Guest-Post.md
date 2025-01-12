@@ -49,11 +49,11 @@ Provisionally assuming this method of accounting, let's return to the contingenc
 
 So their payout structure will look like this:
 
-![desmos-graph](https://github.com/user-attachments/assets/13fe0b79-83e9-4719-8975-225cd80fa434)
+![desmos-graph (1)](https://github.com/user-attachments/assets/baf17674-29b8-4044-be63-310769767448)
 
 Hanes——who is even more esteemed and illustrious than I am, and whose handsomeness is [beyond the possibilities of linguistic description](https://en.wikipedia.org/wiki/Apophatic_theology)——is concerned with the blue-highlighted part of the line below and argues that it contains a segment of claims which are improperly denied financing by contigency investor's incentive structure:
 
-![desmos-graph (2)](https://github.com/user-attachments/assets/7218c30a-353e-406e-ba3f-6820e1c3b748)
+![desmos-graph (2)](https://github.com/user-attachments/assets/a3a449d3-1f64-4ea8-b567-69b136c6838d)
 
 I don't have any response to this argument——in fact I think it's probably right! Where I differ is merely that I would characterize this problem as a subspecies of the general principle-agent problem existing between contingency investors and the legal system (not just plaintiffs). 
 
@@ -63,7 +63,8 @@ One is that shareholders have superoptimal risk-appetite because they have downs
 
 Chancellor Allen arrives at his conclusion about agency problems by considering the array of community interests that a corporation represents (bondholders, trade creditors, tort victims, etc.). In that spirit, let's reintroduce the notion of the total litigation costs of a potential claim:
 
-![desmos-graph (4)](https://github.com/user-attachments/assets/524a689b-5aa2-44c7-8129-c7255c551eed)
+![desmos-graph](https://github.com/user-attachments/assets/8e100a27-bffc-4085-b2e0-42fdbff3cf8c)
+
 
 If you buy that these costs ought to be considered in accounting for the desirability of a claim, then I would be concerned about the agency problems that arise in the *green*-highlighted part of the payout line. I totally agree with Hanes that the blue part is a problem too, but I'm not sure what to do about it, whereas I do think my policy proposal of requiring contingency investors to have more downside exposure properly deals with the agency problems represented by the green line segment. 
 
