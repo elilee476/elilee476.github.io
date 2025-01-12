@@ -57,11 +57,11 @@ Hanes——who is even more esteemed and illustrious than I am, and whose handso
 
 ![desmos-graph (2)](https://github.com/user-attachments/assets/a3a449d3-1f64-4ea8-b567-69b136c6838d)
 
-I don't have any response to this argument——in fact I think it's probably right! Where I differ is merely that I would characterize this problem as a subspecies of the general principle-agent problem existing between contingency investors and the legal system (not just plaintiffs). 
+I don't have any response to this argument——in fact I think it's probably right! Where I differ is merely that I would characterize this problem as a subspecies of the general principal-agent problem existing between contingency investors and the legal system (not just plaintiffs). 
 
 When Chancellor Allen [identifies](https://corpgov.law.harvard.edu/wp-content/uploads/2007/06/20070606%20Credit%20Lyonnais.pdf) the problems of bad shareholder incentives in foonote 55 of the *Credit Lyonnais* case, he points out that there are ***two (2!)*** ways that shareholder-management can go awry.
 
-One is that shareholders have superoptimal risk-appetite because they have downside exposure to cashflow reductions capped at the firm's total debt burden. But another is that they have superoptimal *indifference* (or suboptimal risk appetite) wrt projects that increase cashflows but only at levels below the debt burden. I believe Hanes' *under-incentivization* problem is exactly this second case, whereas the over-incentivization problem is the first case. 
+One is that shareholders have superoptimal risk-appetite because they have downside exposure to cashflow reductions capped at the firm's total debt burden. But another is that they are too *indifferent* (i.e. *suboptimal* risk appetite) wrt projects that increase cashflows but only at levels below the debt burden. I believe Hanes' *under-incentivization* problem is exactly this second case, whereas the over-incentivization problem is the first case. 
 
 Chancellor Allen arrives at his conclusion about agency problems by considering the array of community interests that a corporation represents (bondholders, trade creditors, tort victims, etc.). In that spirit, let's reintroduce the notion of the total litigation costs of a potential claim:
 
