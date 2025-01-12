@@ -44,7 +44,7 @@ So their payout structure will look like this:
 
 ![desmos-graph](https://github.com/user-attachments/assets/13fe0b79-83e9-4719-8975-225cd80fa434)
 
-Hanes——who is even more esteemed and illustrious than I am, and whose handsomeness is beyond [linguistic description](https://en.wikipedia.org/wiki/Apophatic_theology)——is concerned with the blue-highlighted part of the line below and argues that it contains a segment of claims which are improperly denied financing by contigency investor's incentive structure:
+Hanes——who is even more esteemed and illustrious than I am, and whose handsomeness is [beyond the possibilities of linguistic description](https://en.wikipedia.org/wiki/Apophatic_theology)——is concerned with the blue-highlighted part of the line below and argues that it contains a segment of claims which are improperly denied financing by contigency investor's incentive structure:
 
 ![desmos-graph (2)](https://github.com/user-attachments/assets/7218c30a-353e-406e-ba3f-6820e1c3b748)
 
