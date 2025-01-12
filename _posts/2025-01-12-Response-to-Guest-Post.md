@@ -14,10 +14,10 @@ I really enjoyed Thomas Hanes' insightful response to my litigation financing po
 - [Hanes' response](https://elilee476.github.io/2025/01/11/Guest-Post-Response-Plaintiffside-Litigation.html)
 
 Let's start by defining a few variables:
-- $W$ is the winnings of the plaintiff in liability suit, whether from a verdict or settlement
-- $C_p$ is the plaintiff's legal costs
-- $C_d$ is the defendant's legal costs
-- $β$ is the contigency investor's share of $W$ and is $<1$
+- $$W$$ is the winnings of the plaintiff in liability suit, whether from a verdict or settlement
+- $$C_p$$ is the plaintiff's legal costs
+- $$C_d$$ is the defendant's legal costs
+- $$β$$ is the contigency investor's share of $W$ and is $<1$
 
 The contigency investor's payout can be thought of as: 
 
@@ -29,7 +29,7 @@ $$βEV(W)>C_p$$
 
 There is a share of claims where: 
 
-$$β<C_p/EV(W)$$
+$$β<\frac{C_p}{EV(W)}$$
 
 such that a positive EV claim ($EV(W)>C_p$) will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
 
