@@ -73,13 +73,15 @@ That's a difficult concept when dealing with indices rather than single securiti
 
 I think that the best way to calculate the expected return of the industry group we're testing is therefore to use a measure of the entire American economy: the S&P Total Market Index. So, we're going to look at if the indices for highly-regulated industries differed from the perfomance of the economy as a whole. 
 
-Let's take a look at the daily returns surrounding both dates[^2]:
+Let's take a look at the daily returns surrounding both dates:[^2]
 
 ![Loper Bright Graph 1](https://github.com/user-attachments/assets/0559d279-58a7-4ecc-8519-434acd0538dd)
 
 ![Loper Bright Graph 2](https://github.com/user-attachments/assets/299f1acd-5335-4982-8b63-6f73ead42638)
 
-I used a simple CAPM model to estimate expected returns for these indices based on their correlation with the market index[^3]
+I used a simple CAPM model to estimate expected returns for these indices based on their correlation with the market index:[^3]
+
+$$AR_{i,t}=R_{i,t}-(α+β_iR_{m,t})$$
 
 Decision date:
 
