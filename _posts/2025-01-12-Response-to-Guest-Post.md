@@ -1,5 +1,12 @@
-# Response to Hanes' Guest Post
+---
 
+tags: ["Law"]
+Author: Eli Lee
+
+---
+
+
+# Response to Hanes' Guest Post
 
 I really enjoyed Thomas Hanes' insightful response to my litigation financing policy proposal. I agree with most of what he said. I am not going to attempt to rebut his arguments in this post, in part because they are so persuasive that I am not even that sure of my own position. All I want to do here is introduce some simple algebra to summarize what the difference is between us. My hope is this allow the reader (and me) to better judge the plausability of our respective arguments. 
 
