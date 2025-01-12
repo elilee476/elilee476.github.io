@@ -31,9 +31,9 @@ There is a share of claims where:
 
 $$β<\frac{C_p}{EV(W)}$$
 
-such that a positive EV claim ($EV(W)>C_p$) will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
+such that a positive EV claim ($$EV(W)>C_p$$) will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
 
-The question is whether we want all claims where $EV(W)>C_p$ to be financed. In order to evaluate that, we need a way of accounting for the total social good associated with whether a claim gets brought.
+The question is whether we want all claims where $$EV(W)>C_p$$ to be financed. In order to evaluate that, we need a way of accounting for the total social good associated with whether a claim gets brought.
 
 One such accounting could be the following: the total social good is 
 
@@ -41,7 +41,7 @@ $$EV(W)-C_p-C_d$$
 
 In English, it's the expected value of the winnings minus the plaintiff's *and the defendant's* legal costs. Rather than wanting to see any claim where expected winnings exceed the plaintiff's legal costs, we might want those expected winnings to be greater than the total litigation costs borne by all parties. 
 
-We can go even further with that reasoning by introducing $C_l$ as the costs to the legal system (court staffing, judges' time, etc.) associated with the claim. Then we would want any claim where: 
+We can go even further with that reasoning by introducing $$C_l$$ as the costs to the legal system (court staffing, judges' time, etc.) associated with the claim. Then we would want any claim where: 
 
 $$EV(W)>C_p+C_d+C_l$$
 
