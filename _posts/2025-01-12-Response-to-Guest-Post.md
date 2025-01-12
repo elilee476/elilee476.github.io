@@ -17,7 +17,7 @@ Let's start by defining a few variables:
 - $$W$$ is the winnings of the plaintiff in liability suit, whether from a verdict or settlement
 - $$C_p$$ is the plaintiff's legal costs
 - $$C_d$$ is the defendant's legal costs
-- $$β$$ is the contigency investor's share of $W$ and is $<1$
+- $$β$$ is the contigency investor's share of $$W$$ and is $$<1$$
 
 The contigency investor's payout can be thought of as: 
 
