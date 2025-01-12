@@ -14,38 +14,38 @@ I really enjoyed Thomas Hanes' insightful response to my litigation financing po
 - [Hanes' response](https://elilee476.github.io/2025/01/11/Guest-Post-Response-Plaintiffside-Litigation.html)
 
 Let's start by defining a few variables:
-- $$W$$ is the winnings of the plaintiff in liability suit, whether from a verdict or settlement
-- $$C_p$$ is the plaintiff's legal costs
-- $$C_d$$ is the defendant's legal costs
-- $$β$$ is the contigency investor's share of $W$ and is $<1$
+- $`W$` is the winnings of the plaintiff in liability suit, whether from a verdict or settlement
+- $`C_p$` is the plaintiff's legal costs
+- $`C_d$` is the defendant's legal costs
+- $`β$` is the contigency investor's share of $W$ and is $<1$
 
 The contigency investor's payout can be thought of as: 
 
-$$βEV(W)-C_p$$
+$`βEV(W)-C_p$`
 
 Assuming profit-motivated investors will pursue all nonzero EV claims, then contigency investors will finance any claim where: 
 
-$$βEV(W)>C_p$$
+$`βEV(W)>C_p$`
 
 There is a share of claims where: 
 
-$$β<C_p/EV(W)$$ 
+$`β<C_p/EV(W)$`
 
-such that a positive EV claim ($$EV(W)>C_p$$) will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
+such that a positive EV claim ($`EV(W)>C_p$`) will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
 
-The question is whether we want all claims where $$EV(W)>C_p$$ to be financed. In order to evaluate that, we need a way of accounting for the total social good associated with whether a claim gets brought.
+The question is whether we want all claims where $`EV(W)>C_p$` to be financed. In order to evaluate that, we need a way of accounting for the total social good associated with whether a claim gets brought.
 
 One such accounting could be the following: the total social good is 
 
-$$EV(W)-C_p-C_d$$
+$`EV(W)-C_p-C_d$`
 
 In English, it's the expected value of the winnings minus the plaintiff's *and the defendant's* legal costs. Rather than wanting to see any claim where expected winnings exceed the plaintiff's legal costs, we might want those expected winnings to be greater than the total litigation costs borne by all parties. 
 
 We can go even further with that reasoning by introducing $C_l$ as the costs to the legal system (court staffing, judges' time, etc.) associated with the claim. Then we would want any claim where: 
 
-$$EV(W)>C_p+C_d+C_l$$
+$`EV(W)>C_p+C_d+C_l$`
 
-Provisionally assuming this method of accounting, let's return to the contingency investor's incentives ($β$EV(W)-C_p$$). 
+Provisionally assuming this method of accounting, let's return to the contingency investor's incentives ($`βEV(W)-C_p$`). 
 
 So their payout structure will look like this:
 
