@@ -1,7 +1,7 @@
 # Response to Hanes' Guest Post
 
 
-I really enjoyed Thomas Hanes' response to my litigation financing policy proposal. I agree with most of what he said, and I am not going to attempt to rebut his arguments in this post. All I want to do is introduce some simple algebra to summarize what the difference is between us. My hope is this allow the reader to better judge the plausability of our respective arguments. 
+I really enjoyed Thomas Hanes' insightful response to my litigation financing policy proposal. I agree with most of what he said. I am not going to attempt to rebut his arguments in this post, in part because they are so persuasive I am not even that sure of my own position. All I want to do here is introduce some simple algebra to summarize what the difference is between us. My hope is this allow the reader (and me) to better judge the plausability of our respective arguments. 
 
 - [My post](https://elilee476.github.io/2024/12/18/A-Litigation-Financing-Proposal.html)
 - [Hanes' response](https://elilee476.github.io/2025/01/11/Guest-Post-Response-Plaintiffside-Litigation.html)
@@ -38,11 +38,16 @@ We can go even further with that reasoning by introducing $C_l$ as the costs to 
 
 $EV(W)>C_p+C_d+C_l$.
 
-Provisionally assuming this method of accounting, let's return to the contingency investor's incentives. Recall that they finance any claim where:
-
-$βEV(W)>C_p$
+Provisionally assuming this method of accounting, let's return to the contingency investor's incentives ($βEV(W)-C_p$). 
 
 So their payout structure will look like this:
+
+![desmos-graph](https://github.com/user-attachments/assets/82534402-0194-4ffc-b144-2b1b8d7d8fc0)
+
+Hanes—who is even more esteemed and illustrious than I am (and whose handsomeness is of a magnitude which [language cannot even describe](https://www.catholic.com/magazine/print-edition/whats-in-a-name-2))—is concerned with the part of the line under the X-axis and believes it contains a segment of claims which are improperly denied financing by contigency investor's incentive structure:
+
+GRAPH 2 
+
 
 
 
