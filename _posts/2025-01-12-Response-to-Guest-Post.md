@@ -29,9 +29,9 @@ $$βEV(W)>C_p$$
 
 There is a share of claims where: 
 
-$$β<\frac{C_p}{EV(W)}$$
+$$β<\frac{C_p}{EV(W)}<1$$ (i.e. $$EV(W)>C_p$$)
 
-such that a positive EV claim ($$EV(W)>C_p$$) will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
+such that a positive EV claim will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
 
 The question is whether we want all claims where $$EV(W)>C_p$$ to be financed. In order to evaluate that, we need a way of accounting for the total social good associated with whether a claim gets brought.
 
