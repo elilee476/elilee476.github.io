@@ -81,7 +81,7 @@ Let's take a look at the daily returns surrounding both dates:[^2]
 
 I used a simple CAPM model to estimate expected returns for these indices based on their correlation with the market index:[^3]
 
-$$AR_{i,t}=R_{i,t}-(α+β_iR_{m,t})$$
+$$Abnormal Return = Actual Return - (α+β*index  return) $$
 
 Decision date:
 
