@@ -31,7 +31,7 @@ There is a share of claims where:
 
 $$β<\frac{C_p}{EV(W)}<1$$ 
 
-(i.e. $$EV(W)>C_p$$)
+i.e. $$EV(W)>C_p$$
 
 such that a positive EV claim will not be financed. This is what Hanes means he says that contingency investors are *under-incentivized* to bring claims.
 
