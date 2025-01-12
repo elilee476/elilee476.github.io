@@ -76,7 +76,7 @@ You see:
 - **EV(P)** is the amount the plaintiff could expect, ex ante, to win in court.
 - **EV(P) - {expected plaintiff litigation costs}** is the *net* amount they would expect, considering litigation costs.
 - **EV(D)** is the amount the *defendant* would expect to get in court.
-- **EV(D)** - {expected defense litigation costs} is the net amount they would expect.
+- **EV(D) - {expected defense litigation costs}** is the net amount they would expect.
 
 So, a plaintiff is better off getting a settlement of *any amount greater than* [EV(P) - {expected plaintiff litigation costs}] rather than going to court.
 
