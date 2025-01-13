@@ -128,4 +128,4 @@ All of the above are quite bold theoretical speculations that may not be fully s
 
 [^3]: I used an estimation window of -120 days from event date to -11 days. I assumed a normal distribution for all indices. My event observation period was 10 trading days, which is slightly longer than the 5 day period event studies typically study. I made this choice in order to be extra sure that the market had time to digest the news of *Loper Bright*. For an overview of my code and additional information on how to run event studies in Stata, see [this paper](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1801800211). 
 
-[^4]: $$AR$$ is abnormal return, $$R$$ is actual return, ~m~ is the market index. 
+[^4]: AR is abnormal return, R is actual return, m is the market index. 
