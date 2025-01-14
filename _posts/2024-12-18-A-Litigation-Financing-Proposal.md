@@ -7,12 +7,6 @@ tags: ["Law"]
 
 # A Discussion of Wasteful Plaintiff-side Litigation and Proposal for Reform
 
-## 2025 Note
-
-A friend wrote a [response](https://elilee476.github.io/2025/01/11/Guest-Post-Response-Plaintiffside-Litigation.html) to this post, and I responded in a later [post](https://elilee476.github.io/2025/01/12/Response-to-Guest-Post.html). The latter contains a more rigorous exposition of the analogy about call options that I pursue in the piece.
-
-## Too much litigation? 
-
 The United States is an extremely litigious society. Apart from the U.S. Chamber of Commerce's Institute for Legal Reform, there's sadly actually not that much empirical research on just *how* much this screws up the economy. But the Swiss insurance firm Swiss Re, which doesn't have as much of a clear bias, describes this as [follows](https://www.swissre.com/press-release/Litigation-costs-drive-US-liability-claims-by-57-over-past-decade-reveals-Swiss-Re-Institute/0b538159-9648-47da-a152-4550a7640d35):
 
 > Litigation costs are rising and are now the key driver of liability claims...we observe continuous increases in aggressive litigation practices...Increased claims costs not only create a riskier and more costly environment for businesses but are also a concern for insurers. Over the past five years, US commercial casualty insurance losses grew at an average annual rate of 11% to USD 143 billion in 2023 [my note: many times more than the rate of GDP growth]
@@ -62,7 +56,7 @@ The two big costs that fall into this category are the legal fees paid by the de
 
 These costs behave like the debt portion of a firm's capital structure. They represent another party's funding for an enterprise that--if successful--will create enough payout to both recoup the expenditure (by creating benefits for the deserving plaintiff in excess of the litigation costs[^1]) and generate excess cashflows to pay the contigent claimants (plaintiff's lawyers and investors in the claim).
 
-If you [buy this](https://elilee476.github.io/2025/01/12/Response-to-Guest-Post.html) as a basic model for thinking about plaintiffs' claims, then we can see how there are situations in which contigency investors face bad incentives. If a case has a slightly positive expected value for contingency investors but creates much larger costs for courts and defendants, then the contigency investors are incentivized to pursue a claim that has a negative total value.[^2] In the same way that ordinary equity investors are indifferent to nonzero cashflows under the firm's debt obligations, legal contingency investors are indifferent to avoiding litigation with an expected value lower than their cost of capital.  
+If you buy this as a basic model for thinking about plaintiffs' claims (I go into more detail [here](https://elilee476.github.io/2025/01/12/Response-to-Guest-Post.html), then we can see how there are situations in which contigency investors face bad incentives. If a case has a slightly positive expected value for contingency investors but creates much larger costs for courts and defendants, then the contigency investors are incentivized to pursue a claim that has a negative total value.[^2] In the same way that ordinary equity investors are indifferent to nonzero cashflows under the firm's debt obligations, legal contingency investors are indifferent to avoiding litigation with an expected value lower than their cost of capital.  
 
 This isn't just a hypothetical and unrealistic possibility. A great example would be securities derivative claims. There is an entire industry of securities plaintiffs' lawyers who have a lot of experience bringing claims and can very quickly and easily file one. If they believe there is even a small chance of one of these claims being succesful and getting a big payout, then they won't mind inexpensively spamming claims. Even if these claims create total costs far in excess of their expected payout, the contingency investor doesn't care because they are not financially exposed to these costs, just as equity investors are not exposed to earning differences below the firm's debt burden. 
 
