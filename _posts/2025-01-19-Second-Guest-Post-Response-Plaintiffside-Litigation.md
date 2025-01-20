@@ -1,7 +1,7 @@
 ---
 
 author: Salvatore R. Tarnmoor
-tags: ["Law"]
+tags: ["Plaintiffside Litigation Financing Series"]
 
 ---
 
