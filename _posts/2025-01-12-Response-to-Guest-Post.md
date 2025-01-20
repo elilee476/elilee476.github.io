@@ -1,6 +1,6 @@
 ---
 
-tags: ["Law"]
+author: Eli Lee
 tags: ["Plaintiffside Litigation Financing Series"]
 
 ---
