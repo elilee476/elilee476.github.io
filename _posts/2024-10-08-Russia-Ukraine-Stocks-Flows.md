@@ -1,6 +1,6 @@
 ---
 
-author: Eli LEe
+author: Eli Lee
 tags: ["Foreign Policy"]
 
 ---
