@@ -1,7 +1,7 @@
 ---
 
 author: Thomas Hanes
-tags: ["Law"]
+tags: ["Plaintiffside Litigation Financing Series"]
 
 ---
 
