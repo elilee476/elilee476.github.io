@@ -1,3 +1,9 @@
+---
+
+author: Eli Lee
+
+---
+
 # A Discussion of the Film *Sicario* based on Carl Schmitt’s *Hamlet or Hecuba*
 
 ## Modern Action Movies
