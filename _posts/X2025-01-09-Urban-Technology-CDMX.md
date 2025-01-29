@@ -1,3 +1,10 @@
+---
+
+author: Eli Lee
+
+---
+
+
 # Interesting piece of urban technology sighted in Mexico City
 
 ![IMG_8421](https://github.com/user-attachments/assets/cf58dc88-e465-42a1-9159-5abaebe76b98)
