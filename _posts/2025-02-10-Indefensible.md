@@ -6,3 +6,5 @@
 4. Utopia-begging: if you don't like the indefensible thing, you must be able to lay out a complete account of an alternative social order that has no flaws of its own. You must also have a complete account of how this social order could be realized. Only after producing both of these accounts may you criticize the indefensible thing or anything else. 
 5. Appeal to Existential Angst: human beings are fallen creatures; everything has always been and always will be terrible. The indefensible thing is just another iteration of that, so it's not a big deal.
 6. Hume's Fork: because we've been successful in the past, we will continue to be successful in the future, therefore the indefensible thing is not a problem.
+
+Congratulations reader: you've just received the $230,000 value of a YLS degree.
