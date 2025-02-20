@@ -42,7 +42,7 @@ An argument related to the idea to the PLA defense-industrial base stuff is the 
 
 Everything I'm about to say on drones is mostly a summary of this excellent article [Why Drones Have Not Revolutionized War: The Enduring Hider-Finder Competition in Air Warfare](https://www.belfercenter.org/publication/why-drones-have-not-revolutionized-war-enduring-hider-finder-competition-air-warfare) from Mauro Gilli, so you should just read that if you want a truly rigorous exposition of my point. 
 
-Gilli begins by 
+Gilli's analysis focuses on the general kinetic features of air warfare. Dropping ordnance from the air allows militaries to inflict enormous and well-targeted destruction, but in order to be able to do this, they must evade an enemy's air defenses. 
 
 ## Industrial defense production won't uplift the American worker or elites
 
