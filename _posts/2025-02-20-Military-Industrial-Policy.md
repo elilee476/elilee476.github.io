@@ -41,13 +41,13 @@ Ex-CIA Director and Secretary of Defense James Schlesinger [recounts](https://yo
 
 I think this situation is a lot like the one defense-industrial policy proponents allege the United States currently is in with respect to China. We have a rising superpower with 1) *undoubtedly* expansionist aims 2) a commitment to gaining territory in which the United States has a strong interest, and 3) superior industrial capacity to fight and win an extended war to acquire that territory. 
 
-Eisenhower, like Trump today, faced calls from what was not yet then known as the "military-industrial complex" to massively build up the defense-industrial base in order to respond to the Soviet threat. But Eisenhower--wisely, as I will argue--declined these calls. He even took steps to decrease the size of the standing military and reduce defense spending. Eisenhower was able to succesfully advocate for these things because he understood the strategic importance of the United States' most destructive military asset: nuclear weapons.
+Eisenhower, like Trump today, faced calls from what was not yet then known as the "military-industrial complex" to massively build up the defense-industrial base in order to respond to the Soviet threat. But Eisenhower--wisely, as I will argue--declined these calls. He even  decreased the size of the standing military and balanced the budget by reducing defense spending. Eisenhower was able to succesfully advocate for these things because he understood the strategic importance of the United States' most destructive military asset: nuclear weapons.
 
 Beginning with NSC 162/2, Eisenhower depended on a [new strategy](https://www.airandspaceforces.com/article/0803look/) based on countering the Soviets by threatening massive nuclear retaliation should they invade Europe:
 
 > The result of the Eisenhower review was the emergence of a deeper dependence on nuclear weapons and long-range airpower to deter war. Eisenhower chose not to maintain all of the very large Army and Navy that had fought the Korean War. He chose, rather, to invest more heavily in airpower, especially Strategic Air Command, in large part because that kind of defense could be built for lower cost.
 
-Professor George Quester puts a finer point on it:
+IR Professor George Quester puts a finer point on it:
 
 > Massive retaliation, the way Dulles and Eisenhower used it, in a way was a suicide pact. It said if the Russians invade Western Europe, "we're going to hit back with everything we have. We're not going to waste a lot of resources on trying to build tank defenses"...Depending on massive retaliation made European economic growth continue longer...we're all richer today because [of it].
 
