@@ -63,7 +63,7 @@ Even in a nuclear age, it is still important for us to have powerful conventiona
 
 An argument related to the idea to the PLA defense-industrial base stuff is the idea that computer chips and software have some great military significance that justifies subsidizing domestic corporations' uncompetitive production lines for chips and other technology products. The supposed military importance of chips--and their necessity for developing AI--is often discussed in light of drones, so let's begin our analysis there.
 
-Everything I'm about to say on drones is mostly a summary of this excellent article [Why Drones Have Not Revolutionized War: The Enduring Hider-Finder Competition in Air Warfare](https://www.belfercenter.org/publication/why-drones-have-not-revolutionized-war-enduring-hider-finder-competition-air-warfare) from Mauro Gilli, so you should just read that if you want a truly rigorous exposition of my point. 
+Everything I'm about to say on drones is mostly a summary of this excellent article [Why Drones Have Not Revolutionized War: The Enduring Hider-Finder Competition in Air Warfare](https://www.belfercenter.org/publication/why-drones-have-not-revolutionized-war-enduring-hider-finder-competition-air-warfare) from ETH Zurich's Mauro Gilli, so you should just read that if you want a truly rigorous exposition of my point. 
 
 Gilli's analysis begins with the general kinetic features of air warfare. Dropping ordnance from the air allows militaries to inflict enormous and well-targeted destruction, but in order to be able to do this, aircraft must evade an enemy's air defenses. As General William DePuy put it: "what we see we can hit; what we hit we can kill." The only force limiting the operation of this maxim is enemy air defenses.
 
