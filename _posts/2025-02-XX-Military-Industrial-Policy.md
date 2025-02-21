@@ -36,7 +36,7 @@ Eisenhower, like Trump today, faced calls from what was not yet then known as th
 
 ## Chips and AI don't blow things up
 
-An argument related to the idea to the PLA defense-industrial base stuff is the idea that computer chips and software have some great military significance that justifies subsidizing domestic corporations' uncompetitive production lines for chips and other technology products. The supposed military importance of chips is often discussed in light of drones, so let's begin our analysis there.
+An argument related to the idea to the PLA defense-industrial base stuff is the idea that computer chips and software have some great military significance that justifies subsidizing domestic corporations' uncompetitive production lines for chips and other technology products. The supposed military importance of chips--and their necessity for developing AI--is often discussed in light of drones, so let's begin our analysis there.
 
 Everything I'm about to say on drones is mostly a summary of this excellent article [Why Drones Have Not Revolutionized War: The Enduring Hider-Finder Competition in Air Warfare](https://www.belfercenter.org/publication/why-drones-have-not-revolutionized-war-enduring-hider-finder-competition-air-warfare) from Mauro Gilli, so you should just read that if you want a truly rigorous exposition of my point. 
 
