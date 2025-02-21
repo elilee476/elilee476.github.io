@@ -1,6 +1,6 @@
 ---
 
-tags: "foreign policy"
+tags: ["Foreign Policy"]
 Author: Eli Lee
 
 # A few thoughts on the national security justification for industrial policy
