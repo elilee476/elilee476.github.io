@@ -7,7 +7,7 @@ Author: Eli Lee
 
 # A few thoughts on the national security justification for industrial policy
 
-To: Lockheed Martin Government Affairs\
+To: Lockheed Martin Government Affairs Team\
 From: Your friends at the YLS School of Military Strategy\
 Date: February 20, 2025\
 Subject: Software eats the world
