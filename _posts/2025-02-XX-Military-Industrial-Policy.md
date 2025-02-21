@@ -1,4 +1,4 @@
-# Some scattered thoughts on the national security justification for industrial policy
+# Three thoughts on the national security justification for industrial policy
 
 To: Lockheed Martin Government Affairs\
 From: Your friends at the YLS School of Military Strategy\
