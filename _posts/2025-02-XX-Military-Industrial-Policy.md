@@ -2,7 +2,7 @@
 
 To: Lockheed Martin Government Affairs\
 From: Your friends at the YLS School of Military Strategy\
-Date: February XX, 2025\
+Date: February 20, 2025\
 Subject: Software eats the world
 
 
