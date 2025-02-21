@@ -21,9 +21,7 @@ I am concerned about some of the ideas promoted by tech companies pursuing the s
 
 Since the 2016 election and Washington's conversion to universal hawkishness on China, there have been calls from across the political spectrum to address the United States' lack of industrial capacity to engage in extended war. As far as I can tell, the idea here is basically that the United States has lost the ability to physically make a lot of the components necessary for producing enough materiel to replace stocks destroyed by extended combat with the PLA.
 
-Doyens of the right have emphasized the importance of building up a defense-industrial base to fight the Chicoms:
-
-> 
+Doyens of the right like Tom Cotton have [emphasized](https://www.youtube.com/watch?v=HN2Fos4kFbM) the importance of building up a defense-industrial base to fight the Chicoms. 
 
 This is a bipartisan publication. Center-left people like Jake Sullivan have [made](https://www.csis.org/analysis/national-security-advisor-jake-sullivan-fortifying-us-defense-industrial-base) similar noises:
 
