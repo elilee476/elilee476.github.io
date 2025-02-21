@@ -43,7 +43,7 @@ I think this situation is a lot like the one defense-industrial policy proponent
 
 Eisenhower, like Trump today, faced calls from what was not yet then known as the "military-industrial complex" to massively build up the defense-industrial base in order to respond to the Soviet threat. But Eisenhower--wisely, as I will argue--declined these calls. He even took steps to decrease the size of the standing military and reduce defense spending. Eisenhower was able to succesfully advocate for these things because he understood the strategic importance of the United States' most destructive military asset: nuclear weapons.
 
-Formally debuted in NSC 162/2, under Eisenhower, Washington depended on a [new strategy](https://www.airandspaceforces.com/article/0803look/) based on countering the Soviets by threatening massive nuclear retaliation should they invade Europe:
+Beginning with NSC 162/2, Eisenhower depended on a [new strategy](https://www.airandspaceforces.com/article/0803look/) based on countering the Soviets by threatening massive nuclear retaliation should they invade Europe:
 
 > The result of the Eisenhower review was the emergence of a deeper dependence on nuclear weapons and long-range airpower to deter war. Eisenhower chose not to maintain all of the very large Army and Navy that had fought the Korean War. He chose, rather, to invest more heavily in airpower, especially Strategic Air Command, in large part because that kind of defense could be built for lower cost.
 
