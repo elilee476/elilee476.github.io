@@ -1,6 +1,11 @@
-# Запасы, потокы, и ослабление ВС РФ (или его отсутсвуе)
+---
 
-Note: this is a (rough) Russian translation of my October 2024 [post](https://elilee476.github.io/2024/10/08/Russia-Ukraine-Stocks-Flows.html) about the Russia-Ukraine war.
+author: Eli Lee
+tags: ["Foreign Policy"]
+
+---
+
+# Запасы, потокы, и ослабление ВС РФ (или его отсутсвуе) [Russian translation of October 2024 post] 
 
 Примечание: это русский перевод моего [поста](https://elilee476.github.io/2024/10/08/Russia-Ukraine-Stocks-Flows.html) о российско-украинской войне, опубликованного в октябре 2024 года.
 
