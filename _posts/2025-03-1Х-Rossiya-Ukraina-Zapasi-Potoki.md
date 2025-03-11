@@ -5,7 +5,7 @@ tags: ["Foreign Policy"]
 
 ---
 
-# Запасы, потокы, и ослабление ВС РФ (или его отсутсвуе) [Russian translation of October 2024 post] 
+# Запасы, потоки, и ослабление ВС РФ (или его отсутствие) - Russian translation of October 2024 post
 
 Примечание: это русский перевод моего [поста](https://elilee476.github.io/2024/10/08/Russia-Ukraine-Stocks-Flows.html) о российско-украинской войне, опубликованного в октябре 2024 года.
 
