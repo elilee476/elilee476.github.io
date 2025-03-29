@@ -6,7 +6,7 @@ In my experience, if you ask these international young professionals why they vi
 
 *Friends* covers many aspects of American social life but primarily focues on the social and romantic intruige occuring among affluent young New York professionals in creative and/or high-powered careers. By focusing on this one particular thread of the American social fabric, the writers of *Friends* fail to adumbrate several important pieces of context that could be helpful to a foreign viewer using the show to form an understanding of the United States. In particular:
 
--The median American lives within 18 miles of their mother. 
+- The median American lives within 18 miles of their mother. 
 - A majority of Americans have four or fewer lifetime sexual partners.
 - Should one or more of the characters' romantic entanglements prove lasting, it would be very unlikely for those characters to be able to purchase a home and support a family using the incomes provided by their creative and interesting careers. The total fertility rate in Washington, DC was 1.24 in 2022.
 - In most of the four core urban areas I mentioned earlier, the murder rate exceeds that of countries like Yemen and Zimbabwe. Using Washington as an example again, the city has a murder rate equal to that of Haiti.
