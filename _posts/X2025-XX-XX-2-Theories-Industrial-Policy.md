@@ -18,9 +18,19 @@ Anyone who has been trained in Anglophone philosophy becomes prone to making up 
 
 My contention is that it's important to distinguish between these two theories because they have ***diametrically opposed*** consequences for labor, a category which represents the economic lifeblood of the vast majority of the American people (and therefore determines the character of American society). To come right out with it: the infant-industry theory relies on suppressing wages, whereas the redistribution theory calls for increasing them. While it may be logically possible to support industrial policy on both grounds, if one does not distinguish between the two theories, then one will be unable to form an effective industrial policy that accomplishes *either* of the aims laid out previously.
 
-If one is trying to help an industry that is currently non-competitive but promises to become so in the future, then one wants to direct all available resources within that industry towards investment. Both capital-investors––who will need to be subsidized by government for this very reason––and laborers must receive lower cashflows within the industry than they would otherwise earn in order for the theory to even apply. That's because for an industry to need government support in order to survive ***logically entails*** that investment in that industry is not a competitively-productive *current* use of marginal capital and labor resources. An infant-industry, definitionally, cannot currently produce cheaply enough to compete on the world market. The policy response that is called for is therefore to use a combination of subsidies, tariffs, and most importantly, wage suppression in order to allow the industry time to develop so that it can reach the global standard.
+If one is trying to help an industry that is currently non-competitive but promises to become so in the future, then one wants to direct all available resources within that industry towards investment. The basic problem an infant industry faces is that it cannot produce cheaply enough to survive against global competitors. In order for that industry to survive, it must either be insulated from global competition and developed exclusively within the domestic market--or it must be subsidized such that it can afford to sell below its marginal cost. 
 
-Let's look at this in the concrete case of successful Asian tigers' industrial policy. Wage suppression was a component of all of them, which is unlikely to be an accident.[^x] 
+In both cases, payments to laborers beyond their uncompetitive marginal productivity are likely to be borne by--guess who? Other laborers. The case of insulation from foreign competition is clear: tariffs are, like any consumption tax, regressive and thus will be paid by American labor (there aren't very many poor capitalists). Subsidies are more complicated because they are paid out from tax revenue. 
 
-One could argue that all of the costs can be put on capital-investors and consumers such that no wage suppression would be necessary. Let's begin with the case of capital-investors. Although maintaining higher wages within an infant industry would increase costs, even *more* government 
+Or are they? The Biden Administration's brand of industrial policy involved large expenditures on borrowed (printed) money. Since that fiscal straegy tends to create inflation, which is again regressive, laborers are once again left with the check. But perhaps we could imagine instead paying for subsidies with highly progressive taxes. 
+
+Here allow me to make a further conceptual distinction. Let's break down the required subsidies into two components:
+
+- the quantity necessary to make the industry competitive given capital and labor costs equivalent to their marginal productivity
+- the additional quantity necessary to compensate labor at prevailing or desirable rates
+
+The idea here would be to pay laborers *above* their marginal product but to pass these costs onto the wealthy through progressive taxation. It's not that I don't think this could work, but more so that it is merely a dressed up version of a standard tax-and-transfer redistribution proposals. 
+
+A more concrete approach would involve looking at successful Asian tigers' industrial policy. Wage suppression was a component of all of them, which is unlikely to be an accident.[^x] Asian tigers allowed their firms to hold down wages because they were trying to make production cheaper for firms. 
+
 
