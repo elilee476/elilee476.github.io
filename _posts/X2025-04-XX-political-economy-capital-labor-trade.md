@@ -1,18 +1,20 @@
-# Two More Theories of Industrial Policy and their Policy Consequences
+# The Political Economy of the Capital / Labor Trade
 
-In this brief post, I want to describe what I see as two important theories of industrial policy: one based on the notion of infant industries and another centered on the labor share (the percentage of GDP that is enjoyed by workers). In my last couple posts, I talked about the national security theory of industrial policy, which, at least in its current proposed forms, doesn't make any sense. That leaves these other two as prominent theories deserving of our attention.
+Vietnam is a relatively poor country with lots of young people. The United States is a wealthy country with lots of old people. If both countries have open economies, then we would expect, based on my stylized description, Vietnam to exchange labor for capital with the United States, i.e. for Vietnam to run a persistent trade surplus against the United States.
 
-## It's Time to Build©
+So far, so good. But what about when a country runs this trade *globally*? In this post I want to try to explain why the current administration, and actors from other parts of the political spectrum, think that there's a problem with this feature of our economy. The first thing to clarify is that the best versions of these arguments tend to focus on *political economy* rather than the straightforward measures of welfare (money) that most economists specializing in trade study. The concern is that trading capital for labor may affect the role of labor in American society in ways that disempower the former *even while it increases their economically-measured welfare*. 
+
+The tl;dr of my take on this is that this *is* a valid concern, but the recently-announced tariffs, as well as the other prominent proposals to deal with these concerns, are not going to succesfully do what the concerned-parties want them to. That sounds very milquetoast, so I'll be more clear and say that I think most of this stuff is just a massive waste of money and/or just corruption aimed at enriching Trump or Biden's clients. 
+
+A lot of people in both of these political coalitions have an instinct that this is the case, but they don't have the theoretical tools to explain why what's going on is bad. A big part of the problem is that the arguments typically used to defend free trade are only focused on welfare, which the capital-labor trade skeptics are not trying to maximize. In fact, most of them explicitly admit that their policies *will reduce welfare* but claim it's worth it because Americans are already wealthy and what they really need is to repair the political economy problem of disempowered labor. So I hope to make a contribution by stating arguments that share a willingness to prioritize political economy problems over welfare but nonetheless find a fatal mismatch between the policies and their objectives. 
+
+## Infant Industries
 
 ![bd82825ec2ed9161d28876c77eba5b4be6ef23460aaa2faa452df780c3272e95](https://github.com/user-attachments/assets/4149c85c-3a8a-48a9-b578-5face8a68fda)
 
-A short story of the Asian tigers' succesful industrial policies could be something like this: subsidize promising industries in their infancy so that they have time to mature and become competitive on the global market. 
+Before getting into the labor political economy stuff, I'd like to try to briefly deal with another reason people might be skeptical of persistently exchanging assets for goods (capital for labor). A short story of the Asian tigers' succesful industrial policies could be something like this: subsidize promising industries in their infancy so that they have time to mature and become competitive on the global market.  
 
-## Gini Moment 
-
-I touched on this idea in the last section of my post on the national security justification for industrial policy.
-
-## Why care
+## Labor Economics 
 
 Anyone who has been trained in Anglophone philosophy becomes prone to making up and then insisting upon conceptual distinctions. Sometimes this is an overintellecualized indulgence, but conceptual distinctions can also help sharpen our thinking.
 
@@ -33,4 +35,5 @@ The idea here would be to pay laborers *above* their marginal product but to pas
 
 A more concrete approach would involve looking at successful Asian tigers' industrial policy. Wage suppression was a component of all of them, which is unlikely to be an accident.[^x] Asian tigers allowed their firms to hold down wages because they were trying to make production cheaper for firms. 
 
+## Constructive Moderate Solutions
 
