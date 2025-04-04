@@ -56,7 +56,7 @@ In both cases, the greater the labor share of income for the industry, the longe
 
 So far, we've seen that tariffs and subsidies don't look compelling from the persecptive of mainstream econ––neither as a substitute for redistribution or as a way of making labor-intensive infant industries eventually competitive (at least you can't do both at the same timne). But since the premise of this post is that mainstream econ defenders of free trade are talking past their critics by focusing on welfare, we should now look at what the non-welfare considerations associated with tariffs are. 
 
-Aristotle provides a primordial version of the relevant political economy dynamics when he discusses the relationship between military strategy and form of government:
+Aristotle provides a clear account of the relevant political economy dynamics when he discusses the relationship between military strategy and form of government:
 
 [aristotle quote]
 
