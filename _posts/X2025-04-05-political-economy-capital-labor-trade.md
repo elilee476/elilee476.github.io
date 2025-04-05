@@ -8,7 +8,7 @@ In this post, I want to try to explain why the current administration, and actor
 
 The tl;dr of my take on this is that this *is* a valid concern, but the recently-announced tariffs, as well as the other prominent proposals to deal with these concerns, are not going to succesfully do what the concerned-parties want them to. That sounds very milquetoast, so I'll be more clear and say that I think most of this stuff is just a massive waste of money and/or just corruption aimed at enriching Trump or Biden's clients. 
 
-A lot of people in both of these political coalitions have an instinct that this is the case, but they don't have the theoretical tools to explain why what's going on is bad. A big part of the problem is that the arguments typically used to defend free trade are only focused on welfare, which skeptics of trading capital for labor are not trying to maximize. In fact, a lot of them explicitly admit that their policies *will reduce welfare* but claim it's worth it because Americans are already wealthy and what they really need is to repair the political economy problems of the declining middle class. So I hope to make a contribution by arguing in a way that shares a willingness to prioritize political economy problems over welfare––but nonetheless find a fatal means/ends mismatch between the policies that have been used so far to address this and the objectives of those policies. 
+A lot of people in both of these political coalitions have an instinct that this is the case, but they don't have the theoretical tools to explain why what's going on is bad. A big part of the problem is that the arguments typically used to defend free trade are only focused on welfare, which skeptics of trading capital for labor are not trying to maximize. In fact, a lot of them explicitly admit that their policies *will reduce welfare* but claim it's worth it because Americans are already wealthy and what they really need is to repair the political economy problems of the declining middle class. So I hope to make a contribution by arguing in a way that shares a willingness to prioritize political economy problems over welfare––but nonetheless finds a fatal means/ends mismatch between the policies that have been used so far to address this and the objectives of those policies. 
 
 ## The Labor Economics of Trade in Mainstream Economic Theory
 
@@ -72,7 +72,9 @@ We've already discussed how people in concentrated interest groups, such as the 
 
 The more the performance of the economy depends on the health and wellbeing of its laborers (as opposed to its ability to package and sell assets), the more capitalists and government officials will care about said health and wellbeing. The subjective experience of being a middle-class laborer also changes in proportion to the role of labor in the economy. The more important the laborer is in ordinary production, the greater sense of respect and self-sufficiency we would expect laborers to feel. Think about the difference between commanding a middle-class wage on the market vs receiving redistributionary income from inscrutable political processes in Washington.
 
-Now that we've gained an appreciation for the kinds of non-welfare concerns that motivate skeptics of trading capital for labor, we can reconsider the above departures from classical free trade. How would industries shielded from labor arbitrage affect the subjective experience and political agency of middle-class laborers? 
+Now that we've gained an appreciation for the kinds of non-welfare concerns that motivate skeptics of trading capital for labor, we can reconsider the wisdom of departures from classical free trade. How would industries shielded from labor arbitrage affect the subjective experience and political agency of middle-class laborers? One might think that by putting giving laborers a better role in production by preventing Stolper-Samuelson factors from equilibrating across borders, laborers will acquire the goods I've discussed in this section. 
+
+But I'm skeptical of this because I think such barriers behave quite similarly to redistribution. 
 
 ## Constructive Moderate Solutions
 
@@ -80,4 +82,4 @@ I think the takeaway for those sympathetic to the moves away from free trade tha
 
 [^1]: In general, we expect small groups to be better at solving a collective action problem such as lobbying the government for favorable policies. That's because coordination is easier with small groups and because each potential defector weighs more strongly on the probability of the collective action succeeding. 
 
-[^2]: stolper samuelson assumption violation. 
+[^2]: Another problem: the simplest version of the Stolper-Samuelson theorem assumes unlimited factor mobility, i.e. the ability to redeploy capital and labor to maximize their return. But there is limited factor mobility between educated and non-educated laborers (since education takes time and is expensive). So, given the high abundance of educated labor in the United States, we would expect *a fortiori* that any labor-intensive industries would disproportionately draw on this factor rather than a broad range of the middle class. 
