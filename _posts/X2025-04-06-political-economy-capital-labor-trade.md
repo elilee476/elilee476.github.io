@@ -74,7 +74,7 @@ The more the performance of the economy depends on the health and wellbeing of i
 
 Now that we've gained an appreciation for the kinds of non-welfare concerns that motivate skeptics of trading capital for labor, we can reconsider the wisdom of departures from classical free trade. How would industries shielded from labor arbitrage affect the subjective experience and political agency of middle-class laborers? One might think that by putting giving laborers a better role in production by preventing Stolper-Samuelson factors from equilibrating across borders, laborers will acquire the goods I've discussed in this section. 
 
-But I'm skeptical of this because I think such barriers behave quite similarly to redistribution. 
+But I'm skeptical of this because I think such barriers behave quite similarly to redistribution. Just as, for Aristotle, 
 
 ## Constructive Moderate Solutions
 
