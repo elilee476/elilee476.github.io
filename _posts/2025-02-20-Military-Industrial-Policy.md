@@ -17,6 +17,8 @@ The United States Department of Defense is both the largest employer and the gov
 
 I am concerned about some of the ideas promoted by tech companies pursuing the strategy I described in the previous paragraph. I'm harmless, well-behaved, and deep inside the Overton window of American politics, so I *of course* have no problem with corporations discharging their responsibility to create value for shareholders in whatever legally-compliant way they see fit. However, I do want the fine readers of my blog to be equipped to identify the weaknesses associated with the burgenoning "defense-tech" and "industrial policy" discourses. It is in that spirit that I would like to discuss several concerns I have with the arguments put forth by tech companies and their lobbyists on why they should be cut into our government's massive defense spending. 
 
+<img width="583" alt="Screen Shot 2025-04-08 at 17 43 51" src="https://github.com/user-attachments/assets/c67579ca-4467-4792-89d7-d0145d45b092" />
+
 ## Ball bearings for freedom
 
 Since the 2016 election and Washington's conversion to universal hawkishness on China, there have been calls from across the political spectrum to address the United States' lack of industrial capacity to engage in extended war. As far as I can tell, the idea here is basically that the United States has lost the ability to physically make a lot of the components necessary for producing enough materiel to replace stocks destroyed by extended combat with the PLA.
