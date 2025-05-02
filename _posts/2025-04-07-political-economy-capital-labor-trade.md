@@ -28,6 +28,8 @@ There's [some empirical support](https://www.cbo.gov/publication/60342) for this
 
 Household incomes, *after* redistributive policies, haven't increased much for most Americans, even as the pie has gotten a lot bigger. So, you might think that redistributing gains to capital under free trade isn't very realistic because capitalists will use the additional power they acquire from their gains to prevent exactly the redistribution that makes those gains worth it for laborers. Limiting trade may therefore look like a good––perhaps the only––way to maintain a high labor income share even though it involves giving up some potential gains.
 
+<img width="576" alt="Screen Shot 2025-05-02 at 00 22 25" src="https://github.com/user-attachments/assets/f9bbb961-d06c-4b62-85ce-60786ce4e3d9" />
+
 The question then is whether departures from classical free trade, like tariffs or subsidies, can address this issue. The first concern is that tariffs are more regressive than tax-and-transfer redistribution. The Trump administration has put forth some zany theories on tariff incidence based on FX markets, but the literature has documented clearly that tariffs have *some* incidence on consumption, and therefore are like any consumption tax, regressive.
 
 Another issue is that the same political economy dynamics of political capture apply to tariffs. If tariffs are a second-best alternative to redistribution, then as soon as the wealthy realize this, they will use their anti-redistribution channels of political influence to prevent tariffs. Even if a momentary political coalition such as the current administration can maneuver around this, in the long run we wouldn't expect tariffs to be any more durable as a form of redistribution than tax-and-transfer schemes. 
