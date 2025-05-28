@@ -52,19 +52,3 @@ There are many reasons to think privatizing public goods is an inadequate and co
 
 The creation of competent states that could ensure basic levels of welfare and security for all their citizens was an incredible achievement of modernity. We ought not to tolerate the destruction of this achievement, especially if we are expecting to depend on privatization to lighten the impact of such destruction. 
 
-## Straussian Moment
-
-I apologize for being circumspect because I'm writing under my own name.  
-
-I was once at an event hosted by an organization that began its life as an effort to translate right-populist political energy into serious reforms backed by capable elites. When people at this event were asked to go around in a circle and say what they thought the most important political issue in the country was, I responded by saying immigration. Everyone in the circle laughed at this idea.
-
-I have to concede that my general behavior at this event was perhaps not fully compliant with the social expectations of high-bureaucrat gatherings, but I still think this response was illuminating.
-
-It is sometimes desirable to pursue policy solutions like the one in this post's opening image. Focusing on practical and achievable objectives is probably a better route for both career advancement and immediate impact than attempting to address the underlying reasons why urban living conditions have deteriorated so dramatically in past years. While I can concede it is healthy for politically-involved young professionals to use the decision criteria of practicality and feasability for selecting which policy proposals to promote, that should not cause us to forget the missteps that created certain problems in the first place.
-
-Anyone who was involved in creating a situation in which American cities would be better off with women-and-children only subway cars should not hold any influential place in public life beyond writing mournful "how could we go so wrong" retrospectives. While it may be quixotic to attempt to revive the social order in which there was no need for such policies, it does **not** follow that it is equally pointless to disempower those who were responsible for the negative changes.
-
-It would be an enormous mispricing of reputational costs if such people did not face professional consquences for the policies they chose to support. Those who want to create a rational discursive environment for the formation of public policy should favor enforcing reputational costs for promoting harmful policies. These costs ought to be commensurate with the harms that those policies have created. 
-
-The destruction of public spaces safe for women and children is an enormous harm. Nobody who supported the choices that led to it, or who at any point stood in the way of political forces trying to prevent this outcome, is fit to be taken seriously in discsussions of governance or policy (at least not until they profusely apologize). The political actors who made or supported these choices are not "adults in the room" or "elites" whose approval populists need to court in order to govern effectively, they are total idiots whose incompetence and cowardice made life worse for millions of their fellow citizens. They deserve no place in our public life. 
-
