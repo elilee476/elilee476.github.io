@@ -11,15 +11,6 @@ author: Eli Lee
 
 > Area only for women and children
 
-I would expect (please let me know if I'm wrong!) that most fair-minded readers could agree with the following two propositions regarding this image:
-
-- Having an institution like this to protect women and children using public transportation would be better than the current status quo in American cities.
-- It is unfortunate to have to resort to such an institution in order to protect women and children.
-
-Since I think most readers will agree with these statements, I'll spend the remainder of the post discussing corrolaries that I believe follow from them.
-
-## An attack on NEOLIBERAL Venture Capitalists 
-
 There has been a deterioration of safe living conditions in the United States' urban areas:
 
 > According to the NCVS, the urban violent-crime rate increased 40% from 2019 to 2023. Excluding simple assault, the urban violent-crime rate rose 54% over that span. From 2022 to 2023, the urban violent-crime rate didn’t change to a statistically significant degree, so these higher crime rates appear to be the new norm in America’s cities.
