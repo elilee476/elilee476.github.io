@@ -170,7 +170,7 @@ And then Rome fell.
 
 [^4]: Erich Gruen, *Ethnicity in the Ancient World – did it Matter?*, Chapter 5.
 
-[^5]: Even the Greeks of Magna Graecia were significantly latinized by the Social war. Thus, inscriptions from the period in some Greek cities came to be primarily in Latin (though other cities, like Naples, were slower to change). https://bmcr.brynmawr.edu/1996/1996.12.03/#:~:text=In%20many%20cases%20the%20inscriptions,L 
+[^5]: Even the Greeks of Magna Graecia were significantly latinized by the Social war. Thus, inscriptions from the period in some Greek cities came to be primarily in Latin (though other cities, like Naples, were slower to change). https://bmcr.brynmawr.edu/1996/1996.12.03/#:~:text=In%20many%20cases%20the%20inscriptions,L.  
 
 [^6]: If we look beyond Italy (where all were citizens), the late SPQR had several degrees of political-membership. The first were true citizens. The second were “Latini,” meaning those with the Latin Rights. By this time, all Italians were citizens, so the “Latin rights” were actually not found in Latium. Instead, many of those with Latin rights were the people called “coloni:” those living in cities (mostly) populated by the descendents of Romans and Auxiliaries who had settled in conquered territory. After the “latins,” there were the “socii,” or allies, with the power to attain citizenship through military service. Finally, there were the “provinciales” - conquered subject peoples. In the later republic, status as a provinciale was nearly universal outside Italy (except among coloni). Thus, we see in the late Republic a pattern quite similar to 338: citizenship expanded to those *similar to Latins* when the empire began to rule people *very different from Latins*. 
 
