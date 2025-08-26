@@ -11,16 +11,27 @@ There are some very silly ideas being spread right now about the Roman Empire.
 To drop you into the discourse in medias res, there has been a [discussion on Twitter](https://x.com/BretDevereaux/status/1952226652114845890) over the last few weeks on whether nationalism was invented in the 19th Century. The strong version of that claim (whereby ethnonationalist loyalties were not politically significant until the Age of Revolutions) is spurious. Consider John of Gaunt’s speech in Richard II: 
 
 > This royal throne of kings, this scepter’d isle…
+> 
 > This happy breed of men, this little world,
+> 
 > This precious stone set in the silver sea,
+> 
 > Which serves it in the office of a wall…
+> 
 > Against the envy of less happier lands,
+> 
 > This blessed plot, this earth, this realm, this England,
+> 
 > This nurse, this teeming womb of royal kings,
+> 
 > Fear’d by their breed and famous by their birth,
+> 
 > Renowned for their deeds as far from home,
+> 
 > For Christian service and true chivalry…
+> 
 > This land of such dear souls, this dear dear land,
+> 
 > Dear for her reputation through the world…
 
 That speech alone should convince anyone that political loyalties were often tied to nationalist feeling long before 1848 (or 1789). Unfortunately, facts have rarely gotten in the way of [historians reaching a left-leaning consensus](https://www.amazon.com/We-Now-Know-Rethinking-Relations/dp/0198780710). 
@@ -38,7 +49,7 @@ Today, I am going to explain, briefly, the relationship between ethnic loyalty a
 
 In those respects, what is true of Rome is true of England. [Since at least the 17th century](https://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Huguenots/), it has possible for non-Britons to become English through civic processes. Thus, soon after the Huguenots traversed the channel in flight of the Church of Rome, they were decidedly English, with all the rights and responsibilities of Englishmen. And yet, even though England was open to immigration, the English nation is clearly an ethnic phenomenon, rather than a “creedal” or “civic” nation like Singapore or South Africa. English (and later British) institutions command the loyalty of the people due to basically ethno-nationalist sentiments. Britain is a *cultural* group, first and foremost. Rome was, in that respect, similar (as I will argue below). 
 
-Beeyond mere codification of ethnic ties, Rome and Britain had something else very special in common: in both cases, the ethnicity which defined the state *changed*. So, in the 17th century, London’s empire was an *English* one, built in the interest of the *English* people. Eventually, that changed. By the 19th century, London ruled a *British* empire, where the Scots and protestant Irish were genuine equals in the state. Scotland may have been a rather eccentric region of the metropole, but Scots (unlike the Catholic Irish) were not *foreigners* in the eyes of her majesty’s government. The empire of London *remained* an expression of ethnocultural ties, but these ties *expanded in scope* alongside the empire. Rome developed much the same way, and this is reflected in the history of Roman citizenship. 
+Beyond mere codification of ethnic ties, Rome and Britain had something else very special in common: in both cases, the ethnicity which defined the state *changed*. So, in the 17th century, London’s empire was an *English* one, built in the interest of the *English* people. Eventually, that changed. By the 19th century, London ruled a *British* empire, where the Scots and protestant Irish were genuine equals in the state. Scotland may have been a rather eccentric region of the metropole, but Scots (unlike the Catholic Irish) were not *foreigners* in the eyes of her majesty’s government. The empire of London *remained* an expression of ethnocultural ties, but these ties *expanded in scope* alongside the empire. Rome developed much the same way, and this is reflected in the history of Roman citizenship. 
 
 The complex transformations of the Roman ethnic identity have deceived a number of historians into thinking Rome did not have an ethnic identity whatsoever. 
 
