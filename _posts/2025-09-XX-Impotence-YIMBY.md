@@ -6,7 +6,7 @@ Most people who spend a lot of time online reading political commentary are awar
 2. More people could move to the neighborhood if higher-density housing was built.
 3. Existing homeowners don't want the additional housing, so they use their control of local government to prevent the construction of new housing stock.
 
-ONe theory of what's wrong with this is distributional: this pattern of housing stock constriction benefits existing homeowners (the old and wealthy) at the expense of would-be homebuyers (the younger and less wealthy). Another theory is growth-based: since the utility of building new housing exceeds the cost to existing homeowners, this pattern constricts the total amount of wealth available for everyone in society to enjoy.
+One theory of what's wrong with this is distributional: this pattern of housing stock constriction benefits existing homeowners (the old and wealthy) at the expense of would-be homebuyers (the younger and less wealthy). Another theory is growth-based: since the utility of building new housing exceeds the cost to existing homeowners, this pattern constricts the total amount of wealth available for everyone in society to enjoy.
 
 What I'd like to do in this post is use a concept from contract law called "efficient breach" to argue that 1) wherever existing homeowners actually prevent new construction, the distributional theory almost ipso facto applies and that 2) because the distributional theory is a better description of the situation, it's silly to criticize existing homeowners for their restrictive behavior. In fact, given certain reasonable assumptions that I'll detail later, their behavior may even be upholding economically rational outcomes.  
 
