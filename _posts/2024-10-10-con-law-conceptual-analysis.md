@@ -5,7 +5,7 @@ tags: ["Law"]
 
 ---
 
-# Con Law Classrooms and Conceptual Analysis: Brothers from Another Mother
+# Con Law Classrooms and Conceptual Analysis
 
 ## SSRN Abstract
 
