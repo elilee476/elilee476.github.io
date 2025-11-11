@@ -7,11 +7,6 @@ tags: ["Law"]
 
 # Con Law Classrooms and Conceptual Analysis
 
-## SSRN Abstract
-
-Conceptual analysis “asks what is X?” The presupposition behind this kind of question seems to be that there are correct conceptual accounts of X “out there” that we can discover. A concern with this presupposition arises from the thought that all concepts are invented by human minds, so we can only ask what concept fits best with how we currently use a term (linguistic analysis), what concept best captures the intuitions of right-thinking liberals at Oxford (most of analytic ethics), or what concept best promotes a certain social goal (pragmatism). 
-
-A similar objection arises out of what might be thought of as the central question of constitutional law under our regime of judicial review: is X constitutional? Along the lines of the conceptual analysis objection, rather than there being some doctrinal scheme “out there” that exists for lawyers to discover, there is only the question of what scheme of doctrinal-conceptual organization best describes what the legal system currently does (precedential thinking or Oliver Wendell Holmes’s bad man analysis) or what conceptual organization might best promote the society we want (political conflict). Without further specification about which kind of inquiry is sought under the name of the question “is X constitutional?”, the question should be considered devoid of content. 
 
 ## What is Conceptual Analysis?
 
