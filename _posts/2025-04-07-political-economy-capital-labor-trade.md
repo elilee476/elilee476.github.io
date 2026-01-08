@@ -1,9 +1,5 @@
 # The Political Economy of the Capital / Labor Trade
 
-Vietnam is a relatively poor country with lots of young people. The United States is a wealthy country with lots of old people. If both countries have open economies, then we would expect, based on my stylized description, Vietnam to exchange labor for capital with the United States, i.e. for Vietnam to run a persistent trade surplus against the United States.
-
-So far, so good. But what about when a country runs this trade *globally*? A lot of people are mad at this!
-
 In this post, I want to try to explain why the current administration, and actors from other parts of the political spectrum, think that there's a problem with persistently trading capital for labor. The first thing to clarify is that the best versions of these arguments tend to focus on *political economy* rather than the straightforward measures of welfare (money) that most trade economists study. The concern is that trading capital for labor may affect the role of labor in American society in ways that disempower and humiliate the middle class *even while it increases their economically-measured welfare*. 
 
 The tl;dr of my take on this is that this *is* a valid concern, but the recently-announced tariffs, as well as the other prominent proposals to deal with these concerns, are not going to succesfully do what the concerned-parties want them to. That sounds very milquetoast, so I'll be more clear and say that I think most of this stuff is just a massive waste of money and/or just corruption aimed at enriching Trump or Biden's clients. 
